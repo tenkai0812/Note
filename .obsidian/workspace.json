@@ -11,8 +11,13 @@
             "id": "b601ee688a45d395",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "每日筆記/2023-02-04.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -74,21 +79,15 @@
       {
         "id": "7afefbfd6dbf0612",
         "type": "tabs",
+        "dimension": 51.863684771033014,
         "children": [
-          {
-            "id": "cfa44215a5d33ce0",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
           {
             "id": "37199e93e7bb34b9",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "每日筆記/2023-02-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "每日筆記/2023-02-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,6 +126,23 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {
+                "file": "每日筆記/2023-02-04.md"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "b591494aa63375eb",
+        "type": "tabs",
+        "dimension": 48.136315228966986,
+        "children": [
+          {
+            "id": "f6a458167c83c69b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
               "state": {}
             }
           }
@@ -133,7 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 357
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,11 +163,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cfa44215a5d33ce0",
+  "active": "37199e93e7bb34b9",
   "lastOpenFiles": [
     "obsidian startup/Obsidian 啟用教學.md",
-    "data structure/BigO.md",
     "每日筆記/2023-02-04.md",
+    "data structure/BigO.md",
     "未命名/未命名.md",
     "discrete mathematics/recurrence relation(遞迴關係式).md",
     "git github obsidain test.md",
