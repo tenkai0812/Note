@@ -11,12 +11,8 @@
             "id": "b601ee688a45d395",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "git github obsidain test.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -159,7 +155,7 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "9f0fcc305436f9ab",
+  "active": "5bc9ea81489f6824",
   "lastOpenFiles": [
     "git github obsidain test.md",
     "hello world.md"
