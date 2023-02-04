@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9f0fcc305436f9ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "obsidian startup/未命名.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "git github obsidain test.md",
+                "file": "obsidian startup/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "git github obsidain test.md",
+                "file": "obsidian startup/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "git github obsidain test.md"
+                "file": "obsidian startup/未命名.md"
               }
             }
           }
@@ -146,8 +159,9 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "b601ee688a45d395",
+  "active": "5bc9ea81489f6824",
   "lastOpenFiles": [
+    "git github obsidain test.md",
     "hello world.md"
   ]
 }
