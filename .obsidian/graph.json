@@ -55,6 +55,13 @@
         "a": 1,
         "rgb": 5431378
       }
+    },
+    {
+      "query": "讀書筆記",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
     }
   ],
   "collapse-display": false,
@@ -63,10 +70,10 @@
   "nodeSizeMultiplier": 1.75014180374362,
   "lineSizeMultiplier": 1.8263754963131,
   "collapse-forces": false,
-  "centerStrength": 0.393890284417794,
-  "repelStrength": 9.22615671339438,
-  "linkStrength": 1,
-  "linkDistance": 276,
-  "scale": 0.47551697508162766,
-  "close": true
+  "centerStrength": 0.321286767684953,
+  "repelStrength": 9.63941333765497,
+  "linkStrength": 0,
+  "linkDistance": 398,
+  "scale": 0.22611639359078148,
+  "close": false
 }
