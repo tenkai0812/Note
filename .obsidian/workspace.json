@@ -111,6 +111,22 @@
             }
           },
           {
+            "id": "c8662f4326cc8deb",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "5278acf53fd1eeee",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
             "id": "383526d3e2bd1845",
             "type": "leaf",
             "state": {
@@ -131,7 +147,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
         "id": "b591494aa63375eb",
@@ -163,7 +180,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "37199e93e7bb34b9",
+  "active": "383526d3e2bd1845",
   "lastOpenFiles": [
     "obsidian startup/Obsidian 啟用教學.md",
     "每日筆記/2023-02-04.md",
