@@ -22,17 +22,17 @@
       }
     },
     {
-      "query": "📚",
-      "color": {
-        "a": 1,
-        "rgb": 11657298
-      }
-    },
-    {
       "query": "discrete mathematics",
       "color": {
         "a": 1,
         "rgb": 298486
+      }
+    },
+    {
+      "query": "📚",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
       }
     }
   ],
