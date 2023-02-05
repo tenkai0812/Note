@@ -84,9 +84,61 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "871065da38074093",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "discrete mathematics/Chap.1 logic(邏輯).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "956828401539cb3f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "discrete mathematics/Chap.4 Mathematical Induction(數學歸納法).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "543030fb4d69202f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "discrete mathematics/Chap.5 Combinatorial mathematics(排組數學).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bfb71ea896115b05",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "discrete mathematics/Chap.5 Combinatorial mathematics(排組數學).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -161,7 +213,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "discrete mathematics/Chap.2 set theory(集合論).md",
+                "file": "discrete mathematics/Chap.5 Combinatorial mathematics(排組數學).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +230,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "discrete mathematics/Chap.2 set theory(集合論).md",
+                "file": "discrete mathematics/Chap.5 Combinatorial mathematics(排組數學).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +261,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "discrete mathematics/Chap.2 set theory(集合論).md"
+                "file": "discrete mathematics/Chap.5 Combinatorial mathematics(排組數學).md"
               }
             }
           }
@@ -245,17 +297,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a829e57a5bc13df7",
+  "active": "bfb71ea896115b05",
   "lastOpenFiles": [
-    "operating system/operating system.md",
-    "data structure/data structure.md",
-    "linear algrebra/linear algebra.md",
-    "discrete mathematics/discrete mathematics.md",
-    "discrete mathematics/Chap.7 recurrence relation(遞迴關係式).md",
+    "discrete mathematics/Chap.4 Mathematical Induction(數學歸納法).md",
+    "discrete mathematics/Chap.6 Generating functions(生成函數).md",
+    "discrete mathematics/Chap.5 Combinatorial mathematics(排組數學).md",
     "discrete mathematics/Chap.1 logic(邏輯).md",
-    "📚CSIE.md",
-    "每日筆記/FEB/🗓️2023-02-04.md",
-    "每日筆記/🗓️每日筆記.md",
-    "obsidian startup/Obsidian 啟用教學.md"
+    "discrete mathematics/Chap.2 set theory(集合論).md",
+    "discrete mathematics/Chap.3 function(函數).md",
+    "discrete mathematics/Chap.7 recurrence relation(遞迴關係式).md",
+    "discrete mathematics/discrete mathematics.md",
+    "operating system/operating system.md",
+    "data structure/data structure.md"
   ]
 }
