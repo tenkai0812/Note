@@ -169,7 +169,46 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "discrete mathematics/Chap.10.md",
+                "file": "discrete mathematics/Chap.10 Binary relation(二元關係).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3b40819999873a9c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "discrete mathematics/Chap.11 Algebraic structure(代數結構).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7ee7d42079e98580",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "discrete mathematics/Chap.12 finite-state machine(有限狀態機).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "11ba9a091c2f068d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📚CSIE.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -177,7 +216,7 @@
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -252,7 +291,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "discrete mathematics/Chap.10.md",
+                "file": "📚CSIE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -269,7 +308,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "discrete mathematics/Chap.10.md",
+                "file": "📚CSIE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -294,7 +333,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "b591494aa63375eb",
@@ -327,17 +367,17 @@
       "workspaces:管理工作區配置": false
     }
   },
-  "active": "b210dd878e52626a",
+  "active": "11ba9a091c2f068d",
   "lastOpenFiles": [
-    "discrete mathematics/Chap.9 tree(樹).md",
-    "discrete mathematics/Chap.6 Generating functions(生成函數).md",
+    "discrete mathematics/Chap.10 Binary relation(二元關係).md",
     "discrete mathematics/Chap.7 recurrence relation(遞迴關係式).md",
-    "discrete mathematics/Chap.8 Graph(圖論).md",
-    "discrete mathematics/Chap.1 logic(邏輯).md",
-    "discrete mathematics/Chap.2 set theory(集合論).md",
-    "discrete mathematics/Chap.3 function(函數).md",
-    "discrete mathematics/Chap.4 Mathematical Induction(數學歸納法).md",
     "discrete mathematics/Chap.5 Combinatorial mathematics(排組數學).md",
-    "discrete mathematics/discrete mathematics.md"
+    "discrete mathematics/Chap.3 function(函數).md",
+    "discrete mathematics/Chap.2 set theory(集合論).md",
+    "discrete mathematics/Chap.1 logic(邏輯).md",
+    "discrete mathematics/Chap.13 Pólya enumeration theorem(波里亞計數).md",
+    "discrete mathematics/Chap.12 finite-state machine(有限狀態機).md",
+    "discrete mathematics/Chap.11 Algebraic structure(代數結構).md",
+    "discrete mathematics/Chap.9 tree(樹).md"
   ]
 }
