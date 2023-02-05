@@ -66,9 +66,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7ca75f403b8481cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "每日筆記/FEB/2023-02-05.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -143,6 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "每日筆記/FEB/2023-02-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,6 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "每日筆記/FEB/2023-02-05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,8 +231,9 @@
       "workspaces:管理工作區配置": false
     }
   },
-  "active": "f6a458167c83c69b",
+  "active": "7ca75f403b8481cb",
   "lastOpenFiles": [
+    "未命名.md",
     "讀書筆記/原子習慣.md",
     "讀書筆記/七個習慣.md",
     "讀書筆記/讀書筆記.md",
@@ -226,7 +242,6 @@
     "discrete mathematics/discrete mathematics.md",
     "discrete mathematics/Chap.6 Generating functions(生成函數).md",
     "discrete mathematics/Chap.4 Mathematical Induction(數學歸納法).md",
-    "discrete mathematics/Chap.3 function(函數).md",
-    "discrete mathematics/Chap.2 set theory(集合論).md"
+    "discrete mathematics/Chap.3 function(函數).md"
   ]
 }
