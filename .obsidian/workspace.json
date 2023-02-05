@@ -158,8 +158,13 @@
             "id": "f6a458167c83c69b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "每日筆記/FEB/2023-02-04.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -179,15 +184,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b601ee688a45d395",
+  "active": "f6a458167c83c69b",
   "lastOpenFiles": [
-    "每日筆記/FEB/2023-02-05.md",
     "每日筆記/FEB/2023-02-04.md",
+    "每日筆記/FEB/2023-02-05.md",
+    "每日筆記/未命名.md",
+    "每日筆記/2023/FEB/2023-02-04.md",
     "obsidian startup/Obsidian 啟用教學.md",
     "data structure/BigO.md",
     "未命名/未命名.md",
     "discrete mathematics/recurrence relation(遞迴關係式).md",
-    "git github obsidain test.md",
-    "hello world.md"
+    "git github obsidain test.md"
   ]
 }
