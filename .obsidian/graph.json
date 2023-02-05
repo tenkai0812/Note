@@ -29,6 +29,27 @@
       }
     },
     {
+      "query": "linear algebra",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "data structure",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    },
+    {
+      "query": "operating system",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
+    },
+    {
       "query": "📚",
       "color": {
         "a": 1,
@@ -46,6 +67,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.689577388754611,
+  "scale": 0.32790575398528043,
   "close": true
 }
