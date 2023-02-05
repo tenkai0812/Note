@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "每日筆記/FEB/2023-02-04.md",
+                "file": "discrete mathematics/recurrence relation(遞迴關係式).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -95,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "每日筆記/FEB/2023-02-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "每日筆記/FEB/2023-02-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,9 +140,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "每日筆記/FEB/2023-02-04.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -158,13 +154,8 @@
             "id": "f6a458167c83c69b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📚CSIE.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -184,17 +175,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b601ee688a45d395",
+  "active": "f6a458167c83c69b",
   "lastOpenFiles": [
+    "discrete mathematics/recurrence relation(遞迴關係式).md",
+    "discrete mathematics/discrete mathematics.md",
+    "📚CSIE.md",
+    "每日筆記/FEB/🗓️2023-02-04.md",
     "每日筆記/🗓️每日筆記.md",
     "obsidian startup/Obsidian 啟用教學.md",
     "obsidian startup/📑startup setting.md",
-    "discrete mathematics/recurrence relation(遞迴關係式).md",
-    "📚CSIE.md",
-    "每日筆記/FEB/2023-02-04.md",
     "每日筆記/FEB/2023-02-05.md",
     "2023/02/04🗓️.md",
-    "每日筆記/未命名.md",
-    "每日筆記/2023/FEB/2023-02-04.md"
+    "每日筆記/未命名.md"
   ]
 }

@@ -1,1 +1,1 @@
-[[📚CSIE]]
+ [[discrete mathematics]]  [[📚CSIE]]
