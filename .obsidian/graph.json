@@ -1,11 +1,11 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "🗓️",
@@ -57,16 +57,16 @@
       }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "textFadeMultiplier": 0.1,
+  "nodeSizeMultiplier": 1.75014180374362,
+  "lineSizeMultiplier": 1.8263754963131,
+  "collapse-forces": false,
+  "centerStrength": 0.393890284417794,
+  "repelStrength": 9.22615671339438,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.32790575398528043,
-  "close": true
+  "scale": 0.6895773887546108,
+  "close": false
 }

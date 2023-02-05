@@ -291,7 +291,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📚CSIE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -308,7 +307,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📚CSIE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -367,8 +365,9 @@
       "workspaces:管理工作區配置": false
     }
   },
-  "active": "11ba9a091c2f068d",
+  "active": "f6a458167c83c69b",
   "lastOpenFiles": [
+    "📚CSIE.md",
     "discrete mathematics/Chap.10 Binary relation(二元關係).md",
     "discrete mathematics/Chap.7 recurrence relation(遞迴關係式).md",
     "discrete mathematics/Chap.5 Combinatorial mathematics(排組數學).md",
@@ -377,7 +376,6 @@
     "discrete mathematics/Chap.1 logic(邏輯).md",
     "discrete mathematics/Chap.13 Pólya enumeration theorem(波里亞計數).md",
     "discrete mathematics/Chap.12 finite-state machine(有限狀態機).md",
-    "discrete mathematics/Chap.11 Algebraic structure(代數結構).md",
-    "discrete mathematics/Chap.9 tree(樹).md"
+    "discrete mathematics/Chap.11 Algebraic structure(代數結構).md"
   ]
 }
