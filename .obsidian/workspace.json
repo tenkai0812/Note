@@ -130,7 +130,46 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "discrete mathematics/Chap.5 Combinatorial mathematics(排組數學).md",
+                "file": "discrete mathematics/Chap.7 recurrence relation(遞迴關係式).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a2a4cc95c607e645",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "discrete mathematics/Chap.8 Graph(圖論).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "41720d5dfe27d14b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "discrete mathematics/Chap.9 tree(樹).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b210dd878e52626a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "discrete mathematics/Chap.10.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -138,7 +177,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -213,7 +252,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "discrete mathematics/Chap.5 Combinatorial mathematics(排組數學).md",
+                "file": "discrete mathematics/Chap.10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,7 +269,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "discrete mathematics/Chap.5 Combinatorial mathematics(排組數學).md",
+                "file": "discrete mathematics/Chap.10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -252,16 +291,6 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "ff078b2142a71bd7",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "discrete mathematics/Chap.5 Combinatorial mathematics(排組數學).md"
               }
             }
           }
@@ -294,20 +323,21 @@
       "daily-notes:開啟今天的每日筆記": false,
       "templates:插入模板": false,
       "command-palette:開啟命令面板": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "workspaces:管理工作區配置": false
     }
   },
-  "active": "bfb71ea896115b05",
+  "active": "b210dd878e52626a",
   "lastOpenFiles": [
-    "discrete mathematics/Chap.4 Mathematical Induction(數學歸納法).md",
+    "discrete mathematics/Chap.9 tree(樹).md",
     "discrete mathematics/Chap.6 Generating functions(生成函數).md",
-    "discrete mathematics/Chap.5 Combinatorial mathematics(排組數學).md",
+    "discrete mathematics/Chap.7 recurrence relation(遞迴關係式).md",
+    "discrete mathematics/Chap.8 Graph(圖論).md",
     "discrete mathematics/Chap.1 logic(邏輯).md",
     "discrete mathematics/Chap.2 set theory(集合論).md",
     "discrete mathematics/Chap.3 function(函數).md",
-    "discrete mathematics/Chap.7 recurrence relation(遞迴關係式).md",
-    "discrete mathematics/discrete mathematics.md",
-    "operating system/operating system.md",
-    "data structure/data structure.md"
+    "discrete mathematics/Chap.4 Mathematical Induction(數學歸納法).md",
+    "discrete mathematics/Chap.5 Combinatorial mathematics(排組數學).md",
+    "discrete mathematics/discrete mathematics.md"
   ]
 }
