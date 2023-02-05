@@ -11,13 +11,8 @@
             "id": "b601ee688a45d395",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "每日筆記/FEB/2023-02-04.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -95,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "每日筆記/FEB/2023-02-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "每日筆記/FEB/2023-02-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,9 +135,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "每日筆記/FEB/2023-02-04.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -158,13 +149,8 @@
             "id": "f6a458167c83c69b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "每日筆記/FEB/2023-02-04.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -186,14 +172,15 @@
   },
   "active": "b601ee688a45d395",
   "lastOpenFiles": [
-    "每日筆記/FEB/2023-02-05.md",
+    "🗓️每日筆記.md",
     "每日筆記/FEB/2023-02-04.md",
+    "每日筆記/FEB/2023-02-05.md",
+    "2023/02/04🗓️.md",
     "每日筆記/未命名.md",
     "每日筆記/2023/FEB/2023-02-04.md",
     "obsidian startup/Obsidian 啟用教學.md",
     "data structure/BigO.md",
     "未命名/未命名.md",
-    "discrete mathematics/recurrence relation(遞迴關係式).md",
-    "git github obsidain test.md"
+    "discrete mathematics/recurrence relation(遞迴關係式).md"
   ]
 }
