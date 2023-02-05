@@ -127,7 +127,7 @@
       {
         "id": "7afefbfd6dbf0612",
         "type": "tabs",
-        "dimension": 34.69387755102041,
+        "dimension": 41.417910447761194,
         "children": [
           {
             "id": "c8662f4326cc8deb",
@@ -183,13 +183,12 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "b591494aa63375eb",
         "type": "tabs",
-        "dimension": 65.3061224489796,
+        "dimension": 58.582089552238806,
         "children": [
           {
             "id": "f6a458167c83c69b",
@@ -203,7 +202,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 342
+    "width": 333.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -217,7 +216,7 @@
       "workspaces:管理工作區配置": false
     }
   },
-  "active": "5bc9ea81489f6824",
+  "active": "f6a458167c83c69b",
   "lastOpenFiles": [
     "讀書筆記/原子習慣.md",
     "讀書筆記/七個習慣.md",

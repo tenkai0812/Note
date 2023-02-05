@@ -5,7 +5,9 @@
     "fontSize": 16,
     "emojiStyle": "none",
     "iconColor": null,
-    "recentlyUsedIcons": [],
+    "recentlyUsedIcons": [
+      "FarCalendar"
+    ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
     "extraMargin": {
@@ -14,5 +16,6 @@
       "bottom": 0,
       "left": 0
     }
-  }
+  },
+  "每日筆記": "FarCalendar"
 }
