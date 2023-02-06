@@ -4,12 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "2ecb35fe0a67dc7a",
+        "id": "6e25203851b49112",
         "type": "split",
         "children": [
           {
             "id": "81d121e5c2fdc516",
             "type": "tabs",
+            "dimension": 76.35009310986965,
             "children": [
               {
                 "id": "b6365130b2b06b31",
@@ -88,11 +89,12 @@
             "currentTab": 5
           },
           {
-            "id": "08a86ef8c8e00e0a",
+            "id": "fc0867b8ad2024ef",
             "type": "tabs",
+            "dimension": 23.649906890130353,
             "children": [
               {
-                "id": "de3b619789566265",
+                "id": "1520555a3b37312e",
                 "type": "leaf",
                 "state": {
                   "type": "mindmap",
@@ -131,7 +133,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#assignmentoperator",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -148,7 +150,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -252,7 +255,7 @@
       "workspaces:管理工作區配置": false
     }
   },
-  "active": "7ca75f403b8481cb",
+  "active": "56b66d0018e07bb7",
   "lastOpenFiles": [
     "discrete mathematics/discrete mathematics.md",
     "每日筆記/FEB/2023-02-04.md",
