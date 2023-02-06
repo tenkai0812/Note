@@ -1,1 +1,4 @@
 [[discrete mathematics]]  
+
+#proposition
+#statement
