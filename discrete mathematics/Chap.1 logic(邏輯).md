@@ -6,6 +6,14 @@
 
 
 # assignment operator(連接詞)
-## conjunction(and)^
-## disjunction(or)
+## not
 
+## and (conjunction)
+
+## or (disjunction)
+
+
+
+## imply
+
+## if and only if(iff)
