@@ -5,4 +5,7 @@
 
 
 
-# assignmentoperator(連接詞
+# assignment operator(連接詞)
+## conjunction(and)^
+## disjunction(or)
+
