@@ -91,7 +91,7 @@
           {
             "id": "fc0867b8ad2024ef",
             "type": "tabs",
-            "dimension": 23.649906890130353,
+            "dimension": 23.64990689013035,
             "children": [
               {
                 "id": "1520555a3b37312e",
@@ -180,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "discrete mathematics/Chap.1 logic(邏輯).md",
+                "file": "每日筆記/FEB/2023-02-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "discrete mathematics/Chap.1 logic(邏輯).md",
+                "file": "每日筆記/FEB/2023-02-05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
