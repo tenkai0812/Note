@@ -18,7 +18,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "每日筆記/FEB/2023-02-05.md",
+                    "file": "每日筆記/FEB/2023-02-06.md",
                     "mode": "source",
                     "backlinks": false,
                     "source": false
@@ -85,8 +85,7 @@
                   }
                 }
               }
-            ],
-            "currentTab": 5
+            ]
           },
           {
             "id": "fc0867b8ad2024ef",
@@ -133,7 +132,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#assignmentoperator",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -150,8 +149,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -180,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "每日筆記/FEB/2023-02-05.md",
+                "file": "每日筆記/FEB/2023-02-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "每日筆記/FEB/2023-02-05.md",
+                "file": "每日筆記/FEB/2023-02-06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -255,17 +253,17 @@
       "workspaces:管理工作區配置": false
     }
   },
-  "active": "56b66d0018e07bb7",
+  "active": "5bc9ea81489f6824",
   "lastOpenFiles": [
-    "discrete mathematics/discrete mathematics.md",
-    "每日筆記/FEB/2023-02-04.md",
     "每日筆記/FEB/2023-02-05.md",
+    "每日筆記/FEB/2023-02-04.md",
+    "每日筆記/FEB/2023-02-06.md",
+    "讀書筆記/Pasted image 20230206193159.png",
+    "每日筆記/FEB/2023-02-07.md",
+    "discrete mathematics/discrete mathematics.md",
     "未命名.md",
     "讀書筆記/原子習慣.md",
     "讀書筆記/七個習慣.md",
-    "讀書筆記/讀書筆記.md",
-    "discrete mathematics/Chap.6 Generating functions(生成函數).md",
-    "discrete mathematics/Chap.4 Mathematical Induction(數學歸納法).md",
-    "discrete mathematics/Chap.3 function(函數).md"
+    "讀書筆記/讀書筆記.md"
   ]
 }
