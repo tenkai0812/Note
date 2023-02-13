@@ -18,7 +18,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "每日筆記/FEB/2023-02-13.md",
+                    "file": "讀書筆記/七個習慣.md",
                     "mode": "source",
                     "backlinks": false,
                     "source": false
@@ -178,7 +178,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "每日筆記/FEB/2023-02-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +194,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "每日筆記/FEB/2023-02-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -239,7 +237,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333.5
+    "width": 403.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -253,17 +251,17 @@
       "workspaces:管理工作區配置": false
     }
   },
-  "active": "b6365130b2b06b31",
+  "active": "f6a458167c83c69b",
   "lastOpenFiles": [
+    "讀書筆記/七個習慣.md",
+    "讀書筆記/原子習慣.md",
+    "讀書筆記/讀書筆記.md",
+    "📚CSIE.md",
+    "每日筆記/FEB/2023-02-13.md",
     "2023-02-12.md",
     "每日筆記/FEB/2023-02-11.md",
     "每日筆記/FEB/2023-02-10.md",
     "每日筆記/FEB/2023-02-09.md",
-    "每日筆記/FEB/2023-02-13.md",
-    "每日筆記/FEB/2023-02-04.md",
-    "每日筆記/FEB/2023-02-06.md",
-    "每日筆記/FEB/2023-02-07.md",
-    "每日筆記/FEB/2023-02-08.md",
-    "讀書筆記/七個習慣.md"
+    "每日筆記/FEB/2023-02-04.md"
   ]
 }
