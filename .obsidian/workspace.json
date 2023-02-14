@@ -14,8 +14,22 @@
               "type": "mindmap",
               "state": {}
             }
+          },
+          {
+            "id": "5d76db64d70417c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "每日筆記/FEB/2023-02-13.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -90,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "每日筆記/FEB/2023-02-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "每日筆記/FEB/2023-02-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,17 +179,17 @@
       "workspaces:管理工作區配置": false
     }
   },
-  "active": "1520555a3b37312e",
+  "active": "5d76db64d70417c3",
   "lastOpenFiles": [
+    "每日筆記/FEB/2023-02-12.md",
+    "每日筆記/FEB/2023-02-13.md",
+    "2023-02-14.md",
+    "每日筆記/🗓️每日筆記.md",
     "讀書筆記/七個習慣.md",
     "讀書筆記/原子習慣.md",
     "讀書筆記/讀書筆記.md",
     "📚CSIE.md",
-    "每日筆記/FEB/2023-02-13.md",
-    "2023-02-12.md",
     "每日筆記/FEB/2023-02-11.md",
-    "每日筆記/FEB/2023-02-10.md",
-    "每日筆記/FEB/2023-02-09.md",
-    "每日筆記/FEB/2023-02-04.md"
+    "每日筆記/FEB/2023-02-10.md"
   ]
 }
