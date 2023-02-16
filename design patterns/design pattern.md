@@ -15,3 +15,12 @@
 14. state
 15. proxy
 16. MVC
+17. bridge 
+18. builder
+19. chain of responsibility
+20. flyweight
+21. interpreter
+22. mediator
+23. memento
+24. prototype
+25. visitor
