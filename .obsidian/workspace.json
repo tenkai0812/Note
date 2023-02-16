@@ -40,9 +40,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9f68de3fc2bd5f61",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "design patterns/design pattern.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -117,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "每日筆記/FEB/2023-02-14.md",
+                "file": "design patterns/design pattern.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "每日筆記/FEB/2023-02-14.md",
+                "file": "design patterns/design pattern.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,17 +205,17 @@
       "workspaces:管理工作區配置": false
     }
   },
-  "active": "871f81322aeca780",
+  "active": "9f68de3fc2bd5f61",
   "lastOpenFiles": [
+    "data structure/data structure.md",
+    "discrete mathematics/discrete mathematics.md",
+    "design patterns/design pattern.md",
+    "每日筆記/FEB/2023-02-14.md",
     "每日筆記/FEB/2023-02-15.md",
     "每日筆記/FEB/2023-02-16.md",
-    "每日筆記/FEB/2023-02-14.md",
     "每日筆記/FEB/2023-02-13.md",
     "每日筆記/FEB/2023-02-12.md",
     "每日筆記/FEB/2023-02-07.md",
-    "每日筆記/FEB/2023-02-06.md",
-    "每日筆記/FEB/2023-02-05.md",
-    "每日筆記/FEB/2023-02-04.md",
-    "讀書筆記/未命名.md"
+    "每日筆記/FEB/2023-02-06.md"
   ]
 }
