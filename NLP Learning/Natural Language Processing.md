@@ -23,4 +23,14 @@ Rule-based NLP 和 Statistical based NLP 的區別
 **6.** Ambiguity and Uncertainty in Natural Language Processing.
 自然語言處理中的歧義和不確定性
 
-### What is Natural Langua
+### What is Natural Language Processing?
+自然語言處理(NLP)是CS和AI的一個子領域，它處理計算機和人類（自然）語言之間的交互。當我們想要將機器學習或深度學習算法應用於包含文本和語音的數據集時，這一點變得至關重要。
+例如我們可以用NLP創造AI系統，像是:
+-   語音識別
+-   文件摘要
+-   機器翻譯
+-   垃圾郵件檢測
+-   姓名真假識別
+-   問答
+-   自動完成文章
+-   預測打字等
