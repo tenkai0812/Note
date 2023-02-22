@@ -37,6 +37,12 @@ Rule-based NLP 和 Statistical based NLP 的區別
 
 ### Difference between Rule-based NLP and Statistical based NLP.
 -   Rule-based NLP
-	運用常識推理來處理任務
+	運用常識推理來處理任務，例如:
+	- 極冷的溫度會導致凍傷甚至死亡
+	- 熱咖啡會灼傷人的皮膚
+	- 其他常識推理性任務
+	但是這些過程可能需要更多時間，並且要手動操作
+	
 -   Statistical based NLP
-	使用大量數據並ㄕ
+	使用大量數據並從中得出結論。為了訓練NLP models，因此使用ML，在完成大量數據的訓練後，經過訓練的模型將具有推導的正向結果
+-   comparision()
