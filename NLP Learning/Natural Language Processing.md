@@ -22,3 +22,5 @@ Rule-based NLP 和 Statistical based NLP 的區別
 
 **6.** Ambiguity and Uncertainty in Natural Language Processing.
 自然語言處理中的歧義和不確定性
+
+### What is Natural Langua
