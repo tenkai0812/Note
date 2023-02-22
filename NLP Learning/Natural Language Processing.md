@@ -34,3 +34,9 @@ Rule-based NLP 和 Statistical based NLP 的區別
 -   問答
 -   自動完成文章
 -   預測打字等
+
+### Difference between Rule-based NLP and Statistical based NLP.
+-   Rule-based NLP
+	運用常識推理來處理任務
+-   Statistical based NLP
+	使用大量數據並ㄕ
