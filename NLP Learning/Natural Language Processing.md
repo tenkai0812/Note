@@ -46,10 +46,12 @@ Rule-based NLP 和 Statistical based NLP 的區別
 -  Statistical Natural Language Processing
 	使用大量數據並從中得出結論。為了訓練NLP models，因此使用ML，在完成大量數據的訓練後，經過訓練的模型將具有推導的正向結果
 -  Comparison (Pros and Cons)
-| Rule Based NLP    | Statistical NLP |
-| ----------------- | --------------- |
-| +1.有彈性的       | +               |
-| +2.除錯簡單       |                 |
-| +3.不需要太多訓練 |                 |
-| +4.理解語言       |                 |
-| +5.                  |                 |
+| Rule Based NLP        | Statistical NLP |
+| --------------------- | --------------- |
+| +1.有彈性的           | +1.便於擴展     |
+| +2.除錯簡單           | +2.自主學習     |
+| +3.不需要太多訓練     | +3.快速發展     |
+| +4.理解語言           | +4.覆蓋率高     |
+| +5.精準度高           |                 |
+| -1.需要熟練的開發人員 | -1.需要大量數據 |
+| -2.分析緩慢                      | -2.除錯                |
