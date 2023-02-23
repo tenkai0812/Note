@@ -63,6 +63,7 @@ NLP由兩個基礎部分所組成:
 - Natural Language Understanding (NLU)
 	NLU其中又包含:
 	- Lexical Ambiguity (詞意雙關)
-	- Syntactical Ambiguity()
+	- Syntactical Ambiguity(語句雙關)
+	- 
 - Natural Language Generation (NLG)
 
