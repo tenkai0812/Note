@@ -58,3 +58,5 @@ Rule-based NLP 和 Statistical based NLP 的區別
 | -3.覆蓋緩慢           | -3.並不理解文字內容 |
 
 
+### Components of Natural Language Processing
+NLP由兩個基礎
