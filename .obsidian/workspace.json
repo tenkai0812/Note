@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NLP Learning/Natural Language Processing.md",
+                "file": "deep learning/Expert system.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NLP Learning/Natural Language Processing.md",
+                "file": "deep learning/Expert system.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NLP Learning/Natural Language Processing.md",
+                "file": "deep learning/Expert system.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,9 +186,9 @@
   },
   "active": "6989887b087a1093",
   "lastOpenFiles": [
+    "NLP Learning/Natural Language Processing.md",
     "deep learning/Expert system.md",
     "design patterns/design pattern.md",
-    "NLP Learning/Natural Language Processing.md",
     "科技論文導讀/1.1 科學研究.md",
     "2023-02-21.md",
     "每日筆記/FEB/2023-02-16.md",
