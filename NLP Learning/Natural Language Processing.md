@@ -71,7 +71,9 @@ NLP由兩個基礎部分所組成:
 	- Sentence Planning（語句規劃）
 	- Text Realization（文本實現）
 #### Natural language Understanding(NLU)
-NLU的任務自然比NLG困難,例如:
+NLU的任務自然比NLG困難,想像我們正在學習或解釋一種語言實，存在很多歧義（雙關），例如:
+	Sentence: He is looking for a match
+	這句話中的match是指一個伴侶還是一場球賽你並不清楚
 - Lexical Ambiguity
 	Sentence: He is looking for a match
 	這句話中的match是指一個伴侶還是一場球賽你並不清楚
