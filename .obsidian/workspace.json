@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6989887b087a1093",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "deep learning/xpert system.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NLP Learning/Natural Language Processing.md",
+                "file": "deep learning/xpert system.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NLP Learning/Natural Language Processing.md",
+                "file": "deep learning/xpert system.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +184,7 @@
       "workspaces:管理工作區配置": false
     }
   },
-  "active": "f1db7abe5433225b",
+  "active": "6989887b087a1093",
   "lastOpenFiles": [
     "NLP Learning/Natural Language Processing.md",
     "科技論文導讀/1.1 科學研究.md",
