@@ -1,1 +1,0 @@
-Fuzzy Logic 由 Lotfi A.Zadeh所提出

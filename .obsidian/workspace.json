@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "deep learning/Fuzzy Logic.md",
+                "file": "deep learning/Fuzzy Logic(模糊邏輯).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "deep learning/Fuzzy Logic.md",
+                "file": "deep learning/Fuzzy Logic(模糊邏輯).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "deep learning/Fuzzy Logic.md",
+                "file": "deep learning/Fuzzy Logic(模糊邏輯).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +200,7 @@
   "active": "06bc4f503c0d9ba9",
   "lastOpenFiles": [
     "deep learning/Expert system.md",
-    "deep learning/Fuzzy Logic.md",
+    "deep learning/Fuzzy Logic(模糊邏輯).md",
     "NLP Learning/Natural Language Processing.md",
     "design patterns/design pattern.md",
     "科技論文導讀/1.1 科學研究.md",
