@@ -122,7 +122,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "deep learning/Fuzzy Logic(模糊邏輯).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +138,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "deep learning/Fuzzy Logic(模糊邏輯).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +181,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 370.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,10 +195,10 @@
       "workspaces:管理工作區配置": false
     }
   },
-  "active": "06bc4f503c0d9ba9",
+  "active": "f6a458167c83c69b",
   "lastOpenFiles": [
-    "deep learning/Expert system.md",
     "deep learning/Fuzzy Logic(模糊邏輯).md",
+    "deep learning/Expert system.md",
     "NLP Learning/Natural Language Processing.md",
     "design patterns/design pattern.md",
     "科技論文導讀/1.1 科學研究.md",
