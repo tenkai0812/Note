@@ -75,5 +75,7 @@ NLU的任務自然比NLG困難,想像我們正在學習或解釋一種語言實�
 	Sentence: He is looking for a match
 	這句話中的match是指一個伴侶還是一場球賽你並不清楚
 - Lexical Ambiguity
+
+- 
 	
 

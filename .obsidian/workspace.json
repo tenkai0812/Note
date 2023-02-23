@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "deep learning/xpert system.md",
+                "file": "NLP Learning/Natural Language Processing.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "deep learning/xpert system.md",
+                "file": "NLP Learning/Natural Language Processing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "deep learning/xpert system.md",
+                "file": "NLP Learning/Natural Language Processing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,15 +186,15 @@
   },
   "active": "6989887b087a1093",
   "lastOpenFiles": [
+    "deep learning/Expert system.md",
+    "design patterns/design pattern.md",
     "NLP Learning/Natural Language Processing.md",
     "科技論文導讀/1.1 科學研究.md",
     "2023-02-21.md",
     "每日筆記/FEB/2023-02-16.md",
     "每日筆記/FEB/2023-02-22.md",
-    "design patterns/design pattern.md",
     "data structure/data structure.md",
     "discrete mathematics/discrete mathematics.md",
-    "每日筆記/FEB/2023-02-14.md",
-    "每日筆記/FEB/2023-02-15.md"
+    "每日筆記/FEB/2023-02-14.md"
   ]
 }
