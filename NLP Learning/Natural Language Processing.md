@@ -60,10 +60,14 @@ Rule-based NLP 和 Statistical based NLP 的區別
 
 ### Components of Natural Language Processing
 NLP由兩個基礎部分所組成:
-- Natural Language Understanding (NLU)
+- Natural Language Understanding (NLU) (自然語言理解)
 	NLU其中又包含:
 	- Lexical Ambiguity (詞意雙關)
-	- Syntactical Ambiguity(語句雙關)
-	- 
-- Natural Language Generation (NLG)
+	- Syntactical Ambiguity (語句雙關)
+	- Referential Ambiguity (詞性雙關)
+- Natural Language Generation (NLG) (自然語言迭代)
+	NLG其中又包含:
+	- Text Planning (文本規劃)
+	- Sentence Planning　（）
+	- Text Realization
 
