@@ -64,7 +64,7 @@ NLP由兩個基礎部分所組成:
 	NLU其中又包含:
 	- Lexical Ambiguity (詞意雙關)
 	- Syntactical Ambiguity (語句雙關)
-	- Referential Ambiguity (詞性雙關)
+	- Referential Ambiguity (省略主詞)
 - Natural Language Generation (NLG) (自然語言生成)
 	NLG其中又包含:
 	- Text Planning（文本規劃)
@@ -74,5 +74,6 @@ NLP由兩個基礎部分所組成:
 NLU的任務自然比NLG困難,例如:
 - Lexical Ambiguity
 	Sentence: He is looking for a match
+	這句話中的match是指一個伴侶還是一場球賽你並不清楚
 	
 
