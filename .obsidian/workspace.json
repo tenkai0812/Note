@@ -21,12 +21,15 @@
             }
           },
           {
-            "id": "6c7df09603ee5329",
+            "id": "7fa77dc8d7641e5d",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.1.16"
+                "file": "deep learning/未命名.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           },
@@ -155,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NLP Learning/Natural Language Processing.md",
+                "file": "deep learning/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NLP Learning/Natural Language Processing.md",
+                "file": "deep learning/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,8 +233,10 @@
       "workspaces:管理工作區配置": false
     }
   },
-  "active": "6c7df09603ee5329",
+  "active": "7fa77dc8d7641e5d",
   "lastOpenFiles": [
+    "NLP Learning/Natural Language Processing.md",
+    "deep learning/未命名.md",
     "未命名.md",
     "每日筆記/FEB/2023-02-23.md",
     "每日筆記/FEB/2023-02-22.md",
