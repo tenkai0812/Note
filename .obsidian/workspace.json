@@ -21,6 +21,16 @@
             }
           },
           {
+            "id": "6c7df09603ee5329",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.16"
+              }
+            }
+          },
+          {
             "id": "6989887b087a1093",
             "type": "leaf",
             "state": {
@@ -69,7 +79,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -219,7 +230,7 @@
       "workspaces:管理工作區配置": false
     }
   },
-  "active": "f1db7abe5433225b",
+  "active": "6c7df09603ee5329",
   "lastOpenFiles": [
     "未命名.md",
     "每日筆記/FEB/2023-02-23.md",
