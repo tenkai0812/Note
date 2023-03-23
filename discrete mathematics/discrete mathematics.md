@@ -6,14 +6,16 @@ ___
 
 | No. | Title                     |
 | --- | ------------------------- |
-| 1   | Logic                     |
+| 1   | [[Chap.1 Logic(邏輯)]]    |
 | 2   | Set Theory                |
 | 3   | Function                  |
 | 4   | Mathematical Induction    |
-| 5   | Combinatorial mathematics |
-| 6   | Generating functions      |
-| 7   | recurrence relation       |
-| 8   | graph                     |
-| 9   | tree                      |
-| 10  | Binary relation           |
-|     |                           |
+| 5   | Combinatorial Mathematics |
+| 6   | Generating Functions      |
+| 7   | Recurrence Relation       |
+| 8   | Graph                     |
+| 9   | Tree                      |
+| 10  | Binary Relation           |
+| 11  | Algebraic Structure       |
+| 12  | Finite-State Machine      |
+| 13  | Pólya Enumeration Theorem |
