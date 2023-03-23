@@ -11,48 +11,62 @@
       "query": "discrete mathematics",
       "color": {
         "a": 1,
-        "rgb": 37375
+        "rgb": 16711680
       }
     },
     {
       "query": "linear algebra",
       "color": {
         "a": 1,
-        "rgb": 5431473
+        "rgb": 16743168
       }
     },
     {
       "query": "data structure",
       "color": {
         "a": 1,
-        "rgb": 5419488
+        "rgb": 16774912
       }
     },
     {
       "query": "operating system",
       "color": {
         "a": 1,
-        "rgb": 5395168
+        "rgb": 5897984
       }
     },
     {
       "query": "computer organization",
       "color": {
         "a": 1,
-        "rgb": 5419488
+        "rgb": 65450
+      }
+    },
+    {
+      "query": "algorithm",
+      "color": {
+        "a": 1,
+        "rgb": 49151
+      }
+    },
+    {
+      "query": "clustering",
+      "color": {
+        "a": 1,
+        "rgb": 49120
       }
     }
   ],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": -3,
-  "nodeSizeMultiplier": 4.52561940684861,
-  "lineSizeMultiplier": 2.97201390429702,
+  "textFadeMultiplier": -0.6,
+  "nodeSizeMultiplier": 1.71919976333111,
+  "lineSizeMultiplier": 3.22714296279861,
   "collapse-forces": false,
-  "centerStrength": 0,
+  "centerStrength": 0.0985873825900451,
   "repelStrength": 0,
-  "linkStrength": 0,
+  "linkStrength": 0.231047999408328,
   "linkDistance": 500,
-  "scale": 0.03455078986505869,
+  "scale": 0.2215863060044496,
   "close": false
 }

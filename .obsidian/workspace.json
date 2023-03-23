@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📚CSIE.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -191,8 +191,9 @@
   },
   "active": "afe1f78ffa5cbd84",
   "lastOpenFiles": [
-    "📚CSIE.md",
     "README.md",
+    "Computational Intelligence/Fuzzy Logic(模糊邏輯).md",
+    "📚CSIE.md",
     "Computational Intelligence/Clustering/Gaussian Mixture.md",
     "Computational Intelligence/Clustering(群聚分析).md",
     "Computational Intelligence/Clustering/BIRCH.md",
@@ -208,7 +209,6 @@
     "Computational Intelligence/Expert System(專家系統).md",
     "Computational Intelligence/Computational Intelligence.md",
     "Computational Intelligence/Optimization Problem(最佳化問題).md",
-    "Computational Intelligence/Fuzzy Logic(模糊邏輯).md",
     "Computer Organization/Computer Organization.md",
     "Design Patterns/Design Pattern.md",
     "Data Structure/Data Structure.md",
