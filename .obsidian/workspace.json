@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "fc0867b8ad2024ef",
+        "id": "da178bb7da87f7b7",
         "type": "tabs",
         "children": [
           {
-            "id": "7fa77dc8d7641e5d",
+            "id": "3a9801b09b5c570e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "deep learning/Clustering 群聚分析.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -95,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "deep learning/Clustering 群聚分析.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "deep learning/Clustering 群聚分析.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +149,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 206.5
+    "width": 313.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,11 +163,12 @@
       "workspaces:管理工作區配置": false
     }
   },
-  "active": "7fa77dc8d7641e5d",
+  "active": "f6a458167c83c69b",
   "lastOpenFiles": [
+    "未命名.canvas",
+    "deep learning/Clustering 群聚分析.md",
     "📚CSIE.md",
     "operating system/operating system.md",
-    "deep learning/Clustering 群聚分析.md",
     "deep learning/未命名",
     "deep learning/Fuzzy Logic(模糊邏輯).md",
     "deep learning/Expert System.md",
