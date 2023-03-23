@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "deep learning/Clustering(群聚分析).md",
+                "file": "obsidian startup/📑startup setting.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "75676030c096466a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "computer organization/computer organization.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "deep learning/Clustering(群聚分析).md",
+                "file": "computer organization/computer organization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "deep learning/Clustering(群聚分析).md",
+                "file": "computer organization/computer organization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,8 +162,13 @@
             "id": "f6a458167c83c69b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "📚CSIE.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -170,15 +189,24 @@
       "workspaces:管理工作區配置": false
     }
   },
-  "active": "3a9801b09b5c570e",
+  "active": "75676030c096466a",
   "lastOpenFiles": [
+    "📚CSIE.md",
+    "computer organization/computer organization.md",
+    "computer organization",
+    "obsidian startup/📑startup setting.md",
+    "NLP Learning/Natural Language Processing.md",
+    "linear algrebra/linear algebra.md",
+    "data structure/data structure.md",
+    "deep learning/Clustering(群聚分析).md",
+    "deep learning/Expert System(專家系統).md",
+    "deep learning/Optimization Problem(最佳化問題).md",
+    "deep learning/Fuzzy Logic(模糊邏輯).md",
     "design patterns/design pattern.md",
     "discrete mathematics/Chap.1 logic(邏輯).md",
-    "linear algrebra/linear algebra.md",
-    "obsidian startup/📑startup setting.md",
+    "discrete mathematics/discrete mathematics.md",
     "obsidian startup/Obsidian 啟用教學.md",
     "operating system/operating system.md",
-    "NLP Learning/Natural Language Processing.md",
     "discrete mathematics/Chap.13 Pólya enumeration theorem(波里亞計數).md",
     "discrete mathematics/Chap.12 finite-state machine(有限狀態機).md",
     "discrete mathematics/Chap.11 Algebraic structure(代數結構).md",
@@ -190,14 +218,6 @@
     "discrete mathematics/Chap.5 Combinatorial mathematics(排組數學).md",
     "discrete mathematics/Chap.4 Mathematical Induction(數學歸納法).md",
     "discrete mathematics/Chap.3 function(函數).md",
-    "discrete mathematics/Chap.2 set theory(集合論).md",
-    "discrete mathematics.md",
-    "discrete mathematics/discrete mathematics.md",
-    "📚CSIE.md",
-    "deep learning/Clustering(群聚分析).md",
-    "deep learning/Optimization Problem(最佳化問題).md",
-    "deep learning/Fuzzy Logic(模糊邏輯).md",
-    "deep learning/Expert System(專家系統).md",
     "未命名.canvas",
     "deep learning/未命名"
   ]
