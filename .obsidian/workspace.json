@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Discrete Mathematics/Discrete Mathematics.md",
+                "file": "Algorithm/Algorithm.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Discrete Mathematics/Discrete Mathematics.md",
+                "file": "Algorithm/Algorithm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Discrete Mathematics/Discrete Mathematics.md",
+                "file": "Algorithm/Algorithm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,16 +191,16 @@
       "markdown-importer:開啟 Markdown 格式轉換器": false
     }
   },
-  "active": "c8662f4326cc8deb",
+  "active": "f59c741e128d47ea",
   "lastOpenFiles": [
+    "📚CSIE.md",
+    "Discrete Mathematics/Discrete Mathematics.md",
     "Computer Organization/Computer Organization.md",
     "Algorithm/Algorithm.md",
     "Template/Template.md",
     "Computational IOntelligence/Computational Intelligence.md",
     "Template",
-    "📚CSIE.md",
     "README.md",
-    "Discrete Mathematics/Discrete Mathematics.md",
     "Operating System/Operating System.md",
     "Linear Algrebra/Linear Algebra.md",
     "Design Patterns/Design Pattern.md",
