@@ -4,37 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "4f567086e6915928",
+        "id": "4bac92e51eff0380",
         "type": "tabs",
         "children": [
           {
-            "id": "e797a7d71d805d4b",
+            "id": "8d36c7bd2506a9a7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computational IOntelligence/Computational Intelligence.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f59c741e128d47ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algorithm/Algorithm.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithm/Algorithm.md",
+                "file": "Template/Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithm/Algorithm.md",
+                "file": "Template/Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,14 +172,16 @@
       "markdown-importer:開啟 Markdown 格式轉換器": false
     }
   },
-  "active": "f59c741e128d47ea",
+  "active": "5bc9ea81489f6824",
   "lastOpenFiles": [
+    "Computational IOntelligence/Computational Intelligence.md",
+    "Computational IOntelligence/Expert System(專家系統).md",
+    "Computational IOntelligence/Clustering(群聚分析).md",
+    "Algorithm/Algorithm.md",
     "📚CSIE.md",
     "Discrete Mathematics/Discrete Mathematics.md",
     "Computer Organization/Computer Organization.md",
-    "Algorithm/Algorithm.md",
     "Template/Template.md",
-    "Computational IOntelligence/Computational Intelligence.md",
     "Template",
     "README.md",
     "Operating System/Operating System.md",
@@ -206,8 +189,6 @@
     "Design Patterns/Design Pattern.md",
     "Data Structure/Data Structure.md",
     "NLP Learning/Natural Language Processing.md",
-    "Computational IOntelligence/Clustering(群聚分析).md",
-    "Computational IOntelligence/Expert System(專家系統).md",
     "Computational IOntelligence/Fuzzy Logic(模糊邏輯).md",
     "Computational IOntelligence/Optimization Problem(最佳化問題).md",
     "Obsidian Startup/📑startup setting.md",
