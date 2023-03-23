@@ -39,15 +39,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Design Patterns/Design Pattern.md",
+                "file": "Design Patterns/chap.25 visitor.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
+          },
+          {
+            "id": "3a9b951cb6794036",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Design Patterns/Design Pattern.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -191,34 +204,34 @@
       "markdown-importer:開啟 Markdown 格式轉換器": false
     }
   },
-  "active": "ebf5e7fd5f5e402b",
+  "active": "3a9b951cb6794036",
   "lastOpenFiles": [
-    "chap.6 factory method.md",
-    "Design Patterns/Design Pattern.md",
     "Design Patterns/chap.1 strategy.md",
-    "Discrete Mathematics/Chap.1 Logic(邏輯).md",
-    "Discrete Mathematics/Chap.2 Set Theory(集合論).md",
-    "Algorithm/Algorithm.md",
-    "Computational Intelligence/Expert System(專家系統).md",
-    "Computational Intelligence/Fuzzy Logic(模糊邏輯).md",
-    "Computational Intelligence/Computational Intelligence.md",
     "Computational Intelligence/Clustering(群聚分析).md",
-    "Computational Intelligence/Optimization Problem(最佳化問題).md",
+    "Computational Intelligence/Clustering/Ward.md",
+    "Computational Intelligence/Clustering/Spectral.md",
+    "Computational Intelligence/Clustering/OPTICS.md",
+    "Computational Intelligence/Clustering/MeanShift.md",
+    "Computational Intelligence/Clustering/K-means.md",
+    "Computational Intelligence/Clustering/Gaussian Mixture.md",
+    "Computational Intelligence/Clustering/DBSCAN.md",
+    "Computational Intelligence/Clustering/BIRCH.md",
+    "Computational Intelligence/Clustering/Agglomerative.md",
+    "Computational Intelligence/Clustering/Affinity Propagation.md",
     "Computer Organization/Computer Organization.md",
-    "Data Structure/Data Structure.md",
-    "Discrete Mathematics/Discrete Mathematics.md",
     "Linear Algrebra/Linear Algebra.md",
-    "NLP Learning/Chap.1 Natural Language Processing.md",
-    "NLP Learning/Natural Language Processing.md",
-    "Operating System/Operating System.md",
-    "Obsidian Startup/Obsidian 啟用教學.md",
-    "Obsidian Startup/📑startup setting.md",
-    "README.md",
-    "📚CSIE.md",
     "Template/Studies Template.md",
     "Template/Contents Template.md",
-    "Template/Article Template.md",
-    "Computational Intelligence/Clustering/Agglomerative.md",
+    "Design Patterns/Design Pattern.md",
+    "Data Structure/Data Structure.md",
+    "Discrete Mathematics/Discrete Mathematics.md",
+    "Design Patterns/chap.19 chain of responsibility.md",
+    "Design Patterns/chap.24 prototype.md",
+    "Design Patterns/chap.25 visitor.md",
+    "Design Patterns/chap.23 memento.md",
+    "Design Patterns/chap.22 mediator.md",
+    "Design Patterns/chap.21 interpreter.md",
+    "Design Patterns/chap.20 flyweight.md",
     "Computational Intelligence/Clustering",
     "Template",
     "Algorithm",

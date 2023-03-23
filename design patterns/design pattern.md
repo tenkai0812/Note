@@ -24,20 +24,10 @@ ___
 | 16  | [[chap.16 MVC]]                      |
 | 17  | [[chap.17 bridge ]]                  |
 | 18  | [[chap.18 builder]]                  |
-| 19  | [[chap.19. chain of responsibility]] |
+| 19  | [[chap.19 chain of responsibility]] |
 | 20  | [[chap.20 flyweight]]                |
 | 21  | [[chap.21 interpreter]]              |
 | 22  | [[chap.22 mediator]]                 |
-| 23  |                                      |
-| 24  |                                      |
-| 25  |                                      |
-
-
-
-
-20. flyweight
-21. interpreter
-22. mediator
-23. memento
-24. prototype
-25. visitor
+| 23  | [[chap.23 memento]]                  |
+| 24  | [[chap.24 prototype]]                |
+| 25  | [[chap.25 visitor]]                  |
