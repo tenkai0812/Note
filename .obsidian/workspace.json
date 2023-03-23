@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "deep learning/Optimization Problem(最佳化問題).md",
+                "file": "deep learning/Clustering(群聚分析).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "deep learning/Optimization Problem(最佳化問題).md",
+                "file": "deep learning/Clustering(群聚分析).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "deep learning/Optimization Problem(最佳化問題).md",
+                "file": "deep learning/Clustering(群聚分析).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,8 +186,8 @@
   },
   "active": "830866f58557098a",
   "lastOpenFiles": [
-    "NLP Learning/Natural Language Processing.md",
     "deep learning/Optimization Problem(最佳化問題).md",
+    "NLP Learning/Natural Language Processing.md",
     "deep learning/Clustering(群聚分析).md",
     "deep learning/Fuzzy Logic(模糊邏輯).md",
     "deep learning/Expert System(專家系統).md",
