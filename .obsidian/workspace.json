@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NLP Learning/Chap.1 Natural Language Processing.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -191,6 +191,7 @@
   },
   "active": "afe1f78ffa5cbd84",
   "lastOpenFiles": [
+    "README.md",
     "NLP Learning/Chap.1 Natural Language Processing.md",
     "NLP Learning/Natural Language Processing.md",
     "Operating System/Operating System.md",
@@ -211,7 +212,6 @@
     "Computational Intelligence/Clustering/Gaussian Mixture.md",
     "Computational Intelligence/Clustering/DBSCAN.md",
     "Computational Intelligence/Clustering/BIRCH.md",
-    "README.md",
     "Computational Intelligence/Fuzzy Logic(模糊邏輯).md",
     "Computational Intelligence/Clustering",
     "Computational Intelligence/Expert System(專家系統).md",
