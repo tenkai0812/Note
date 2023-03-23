@@ -1,7 +1,8 @@
+## Design Patterns
 ___
 date : 2023-02-22 10:27<br>
 aliases : []<br>
-Source URL : <br>
+Source URL : [Head First Design Patterns](https://github.com/ajitpal/BookBank/blob/master/%5BO%60Reilly.%20Head%20First%5D%20-%20Head%20First%20Design%20Patterns%20-%20%5BFreeman%5D.pdf)<br>
 Topics : [[📚CSIE]] 
 ___
 | No. | Title                                                                                                                  |
@@ -15,7 +16,7 @@ ___
 | 7   | [[chap.7 singleton]](https://github.com/tenkai0812/Note/blob/main/design%20patterns/chap.7%20singleton.md)             |
 | 8   | [[chap.8 command]](https://github.com/tenkai0812/Note/blob/main/design%20patterns/chap.8%20command.md)                 |
 | 9   | [[chap.9 adapter]](https://github.com/tenkai0812/Note/blob/main/design%20patterns/chap.9%20adapter.md)                 |
-| 10  | [[chap.10 facade]]                                                                                                     |
+| 10  | [[chap.10 facade]](https://github.com/tenkai0812/Note/blob/main/design%20patterns/chap.10%20facade.md)                 |
 | 11  | [[chap.11 template method]]                                                                                            |
 | 12  | [[chap.12 iterator]]                                                                                                   |
 | 13  | [[chap.13 composite]]                                                                                                  |
