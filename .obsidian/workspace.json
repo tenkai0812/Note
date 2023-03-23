@@ -39,20 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NLP Learning/Chap.1 Natural Language Processing.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fc5e95e6b6a0597a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Discrete Mathematics/Discrete Mathematics.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -60,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -135,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Discrete Mathematics/Discrete Mathematics.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Discrete Mathematics/Discrete Mathematics.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,17 +205,18 @@
       "markdown-importer:開啟 Markdown 格式轉換器": false
     }
   },
-  "active": "fc5e95e6b6a0597a",
+  "active": "ebf5e7fd5f5e402b",
   "lastOpenFiles": [
+    "NLP Learning/Natural Language Processing.md",
+    "NLP Learning/Chap.1 Natural Language Processing.md",
     "README.md",
-    "Discrete Mathematics/Chap.1 Logic(邏輯).md",
+    "Logic.md",
     "Discrete Mathematics/Discrete Mathematics.md",
+    "Discrete Mathematics/Chap.1 Logic(邏輯).md",
     "Discrete Mathematics/Chap.3 Function(函數).md",
     "Discrete Mathematics/Chap.2 Set Theory(集合論).md",
-    "NLP Learning/Natural Language Processing.md",
     "Operating System/Operating System.md",
     "Obsidian Startup/Obsidian 啟用教學.md",
-    "Logic.md",
     "Discrete Mathematics/Chap.13 Pólya Enumeration Theorem(波里亞計數).md",
     "Discrete Mathematics/Chap.12 Finite-State Machine(有限狀態機).md",
     "Discrete Mathematics/Chap.11 Algebraic Structure(代數結構).md",
@@ -242,7 +230,6 @@
     "Template/Studies Template.md",
     "Template/Article Template.md",
     "Template/Contents Template.md",
-    "NLP Learning/Chap.1 Natural Language Processing.md",
     "Computational IOntelligence/Computational Intelligence.md",
     "📚CSIE.md",
     "Computational IOntelligence/Expert System(專家系統).md",
