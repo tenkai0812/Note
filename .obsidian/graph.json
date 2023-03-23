@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": false,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "discrete mathematics",
@@ -46,14 +46,14 @@
       "query": "algorithm",
       "color": {
         "a": 1,
-        "rgb": 8839165
+        "rgb": 49151
       }
     },
     {
       "query": "clustering",
       "color": {
         "a": 1,
-        "rgb": 56575
+        "rgb": 4580604
       }
     }
   ],
@@ -67,6 +67,6 @@
   "repelStrength": 6.79979291472524,
   "linkStrength": 1,
   "linkDistance": 500,
-  "scale": 0.07265942474320213,
-  "close": false
+  "scale": 0.15280090627832854,
+  "close": true
 }
