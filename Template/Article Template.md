@@ -1,5 +1,5 @@
 ___
-date : {{date}}{{time}}
+date : {{date}} {{time}}
 aliases : []
 Source URL : 
 Topics : 

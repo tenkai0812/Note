@@ -10,9 +10,9 @@
   "insert-template": [
     {
       "modifiers": [
-        "Shift"
+        "Mod"
       ],
-      "key": "L"
+      "key": "A"
     }
   ]
 }
