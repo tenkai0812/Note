@@ -7,7 +7,7 @@
 | 4   | [operating system](https://github.com/tenkai0812/Obsidian/blob/main/operating%20system/operating%20system.md)                                                                                                        |
 | 5   | [computer organization](https://github.com/tenkai0812/Obsidian/blob/main/computer%20organization/computer%20organization.md)                                                                                                   |
 | 6   | [algorithm](https://github.com/tenkai0812/Obsidian/blob/main/algorithm/algorithm.md)                                                                                                               |
-| 7   | [deep learning](https://github.com/tenkai0812/Obsidian/blob/main/deep%20learning/deep%20learning.md)                                                                                                           |
+| 7   | [Computational Intelligence](https://github.com/tenkai0812/Obsidian/blob/main/deep%20learning/deep%20learning.md)                                                                                                           |
 | 8   | [dasign pattern](https://github.com/tenkai0812/Obsidian/blob/main/design%20patterns/design%20pattern.md)                                                                                                          |
 | 9   | [Natural Language Processing](https://github.com/tenkai0812/Obsidian/blob/main/NLP%20Learning/Natural%20Language%20Processing.md)                                                                                                                          |
 

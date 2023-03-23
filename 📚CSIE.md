@@ -5,6 +5,6 @@
 4. [[operating system]]
 5. [[computer organization]]
 6. [[algorithm]]
-7. [[deep learning]]
+7. [[Computational Intelligence]]
 8. [[Natural Language Processing]]
 9. [[design pattern]]

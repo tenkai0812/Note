@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "deep learning/deep learning.md",
+                "file": "NLP Learning/Natural Language Processing.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "deep learning/deep learning.md",
+                "file": "NLP Learning/Natural Language Processing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "deep learning/deep learning.md",
+                "file": "NLP Learning/Natural Language Processing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,16 +185,16 @@
       "workspaces:管理工作區配置": false
     }
   },
-  "active": "5278acf53fd1eeee",
+  "active": "e797a7d71d805d4b",
   "lastOpenFiles": [
-    "deep learning/Clustering(群聚分析).md",
-    "deep learning/deep learning.md",
-    "deep learning/Expert System(專家系統).md",
-    "deep learning/Optimization Problem(最佳化問題).md",
-    "deep learning/Fuzzy Logic(模糊邏輯).md",
+    "README.md",
+    "Computational Intelligence/Computational Intelligence.md",
+    "Computational Intelligence/Clustering(群聚分析).md",
+    "Computational Intelligence/Expert System(專家系統).md",
+    "Computational Intelligence/Fuzzy Logic(模糊邏輯).md",
+    "Computational Intelligence/Optimization Problem(最佳化問題).md",
     "data structure/data structure.md",
     "computer organization/computer organization.md",
-    "README.md",
     "📚CSIE.md",
     "NLP Learning/Natural Language Processing.md",
     "obsidian startup/📑startup setting.md",
