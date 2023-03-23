@@ -1,1 +1,4 @@
-[[deep learning]]
+---
+[[]]
+---
+Topics :: [[deep learning]]

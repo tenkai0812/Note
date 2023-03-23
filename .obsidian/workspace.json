@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "discrete mathematics/discrete mathematics.md",
+                "file": "deep learning/deep learning.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -95,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "deep learning/deep learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "deep learning/deep learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,25 +184,25 @@
       "workspaces:管理工作區配置": false
     }
   },
-  "active": "afe1f78ffa5cbd84",
+  "active": "e797a7d71d805d4b",
   "lastOpenFiles": [
-    "discrete mathematics/discrete mathematics.md",
-    "📚CSIE.md",
-    "README.md",
-    "algorithm/algorithm.md",
-    "obsidian startup/📑startup setting.md",
-    "linear algrebra/linear algebra.md",
-    "deep learning/deep learning.md",
-    "NLP Learning/Natural Language Processing.md",
-    "operating system/operating system.md",
-    "computer organization/computer organization.md",
-    "algorithm",
-    "data structure/data structure.md",
-    "computer organization",
-    "deep learning/Clustering(群聚分析).md",
-    "deep learning/Expert System(專家系統).md",
     "deep learning/Optimization Problem(最佳化問題).md",
     "deep learning/Fuzzy Logic(模糊邏輯).md",
+    "deep learning/Expert System(專家系統).md",
+    "deep learning/deep learning.md",
+    "deep learning/Clustering(群聚分析).md",
+    "data structure/data structure.md",
+    "computer organization/computer organization.md",
+    "README.md",
+    "📚CSIE.md",
+    "NLP Learning/Natural Language Processing.md",
+    "obsidian startup/📑startup setting.md",
+    "operating system/operating system.md",
+    "discrete mathematics/discrete mathematics.md",
+    "algorithm/algorithm.md",
+    "linear algrebra/linear algebra.md",
+    "algorithm",
+    "computer organization",
     "design patterns/design pattern.md",
     "discrete mathematics/Chap.1 logic(邏輯).md",
     "obsidian startup/Obsidian 啟用教學.md",
