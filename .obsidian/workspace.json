@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "deep learning/Clustering(群聚分析).md",
+                "file": "operating system/operating system.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "deep learning/Clustering(群聚分析).md",
+                "file": "operating system/operating system.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "deep learning/Clustering(群聚分析).md",
+                "file": "operating system/operating system.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,9 +186,10 @@
   },
   "active": "830866f58557098a",
   "lastOpenFiles": [
+    "deep learning/Clustering(群聚分析).md",
+    "operating system/operating system.md",
     "deep learning/Optimization Problem(最佳化問題).md",
     "NLP Learning/Natural Language Processing.md",
-    "deep learning/Clustering(群聚分析).md",
     "deep learning/Fuzzy Logic(模糊邏輯).md",
     "deep learning/Expert System(專家系統).md",
     "design patterns/design pattern.md",
@@ -198,7 +199,6 @@
     "未命名.canvas",
     "未命名.md",
     "📚CSIE.md",
-    "operating system/operating system.md",
     "deep learning/未命名",
     "每日筆記/FEB/2023-02-23.md",
     "每日筆記/FEB/2023-02-22.md",
