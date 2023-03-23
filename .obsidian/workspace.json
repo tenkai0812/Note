@@ -26,7 +26,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Template/未命名.md",
+                "file": "Template/Article Template.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ebf5e7fd5f5e402b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Template/Studies Template.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Template/未命名.md",
+                "file": "Template/Studies Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Template/未命名.md",
+                "file": "Template/Studies Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +156,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "b591494aa63375eb",
@@ -191,17 +205,22 @@
       "markdown-importer:開啟 Markdown 格式轉換器": false
     }
   },
-  "active": "65378873c8368005",
+  "active": "ebf5e7fd5f5e402b",
   "lastOpenFiles": [
-    "Operating System/Operating System.md",
-    "Template/未命名.md",
     "Template/Article Template.md",
+    "Template/Studies Template.md",
+    "Template/Contents Template.md",
+    "Discrete Mathematics/Chap.2 set theory(集合論).md",
+    "Discrete Mathematics/Discrete Mathematics.md",
+    "Discrete Mathematics/Chap.4 Mathematical Induction(數學歸納法).md",
+    "Discrete Mathematics/Chap.3 function(函數).md",
+    "Discrete Mathematics/Chap.1 logic(邏輯).md",
     "Computational IOntelligence/Computational Intelligence.md",
+    "Operating System/Operating System.md",
+    "📚CSIE.md",
     "Computational IOntelligence/Expert System(專家系統).md",
     "Computational IOntelligence/Clustering(群聚分析).md",
     "Algorithm/Algorithm.md",
-    "📚CSIE.md",
-    "Discrete Mathematics/Discrete Mathematics.md",
     "Computer Organization/Computer Organization.md",
     "Template",
     "README.md",
@@ -214,14 +233,9 @@
     "Obsidian Startup/📑startup setting.md",
     "Algorithm",
     "Computer Organization",
-    "Discrete Mathematics/Chap.1 logic(邏輯).md",
     "Obsidian Startup/Obsidian 啟用教學.md",
     "Discrete Mathematics/Chap.13 Pólya enumeration theorem(波里亞計數).md",
     "Discrete Mathematics/Chap.12 finite-state machine(有限狀態機).md",
-    "Discrete Mathematics/Chap.11 Algebraic structure(代數結構).md",
-    "Discrete Mathematics/Chap.10 Binary relation(二元關係).md",
-    "Discrete Mathematics/Chap.9 tree(樹).md",
-    "Discrete Mathematics/Chap.8 Graph(圖論).md",
     "未命名.canvas",
     "deep learning/未命名"
   ]

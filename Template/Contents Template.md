@@ -1,5 +1,5 @@
 ---
-date : 2023-03-23 18:46
+date : {{date}} {{time}}
 aliases : []
 Topics : 
 ---
