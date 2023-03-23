@@ -52,7 +52,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Design Patterns/chap.20 flyweight.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "452570c826de1245",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -60,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -135,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,11 +217,14 @@
       "markdown-importer:開啟 Markdown 格式轉換器": false
     }
   },
-  "active": "3a9b951cb6794036",
+  "active": "452570c826de1245",
   "lastOpenFiles": [
+    "Design Patterns/chap.20 flyweight.md",
+    "未命名.md",
+    "Design Patterns/Design Pattern.md",
+    "README.md",
     "Computational Intelligence/Clustering/Affinity Propagation.md",
     "📚CSIE.md",
-    "README.md",
     "Algorithm/Algorithm.md",
     "Computational Intelligence/Computational Intelligence.md",
     "Computational Intelligence/Expert System(專家系統).md",
@@ -222,7 +238,6 @@
     "Computer Organization/Computer Organization.md",
     "Data Structure/Data Structure.md",
     "Discrete Mathematics/Discrete Mathematics.md",
-    "Design Patterns/Design Pattern.md",
     "Design Patterns/chap.23 memento.md",
     "Operating System/Operating System.md",
     "NLP Learning/Natural Language Processing.md",
@@ -230,8 +245,6 @@
     "Design Patterns/chap.25 visitor.md",
     "Design Patterns/chap.24 prototype.md",
     "Design Patterns/chap.22 mediator.md",
-    "Design Patterns/chap.21 interpreter.md",
-    "Design Patterns/chap.20 flyweight.md",
     "Computational Intelligence/Clustering",
     "Template",
     "Algorithm",
