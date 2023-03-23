@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computational IOntelligence/Computational Intelligence.md",
+                "file": "Computational Intelligence/Computational Intelligence.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computational IOntelligence/Computational Intelligence.md",
+                "file": "Computational Intelligence/Computational Intelligence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computational IOntelligence/Computational Intelligence.md",
+                "file": "Computational Intelligence/Computational Intelligence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,24 +207,24 @@
   },
   "active": "ebf5e7fd5f5e402b",
   "lastOpenFiles": [
-    "Computational IOntelligence/Expert System(專家系統).md",
-    "Computational IOntelligence/Fuzzy Logic(模糊邏輯).md",
-    "Computational IOntelligence/Optimization Problem(最佳化問題).md",
-    "Computational IOntelligence/Computational Intelligence.md",
-    "Computational IOntelligence/Clustering(群聚分析).md",
+    "Computational Intelligence/Clustering(群聚分析).md",
+    "Computational Intelligence/Computational Intelligence.md",
+    "Computational Intelligence/Expert System(專家系統).md",
+    "Computational Intelligence/Fuzzy Logic(模糊邏輯).md",
+    "Computational Intelligence/Optimization Problem(最佳化問題).md",
+    "Computer Organization/Computer Organization.md",
+    "Design Patterns/Design Pattern.md",
+    "Data Structure/Data Structure.md",
+    "Operating System/Operating System.md",
+    "NLP Learning/Natural Language Processing.md",
+    "Linear Algrebra/Linear Algebra.md",
+    "Discrete Mathematics/Discrete Mathematics.md",
     "Template/Article Template.md",
     "Template/Contents Template.md",
     "Template/Studies Template.md",
-    "Operating System/Operating System.md",
     "Obsidian Startup/Obsidian 啟用教學.md",
     "Obsidian Startup/📑startup setting.md",
-    "NLP Learning/Natural Language Processing.md",
     "NLP Learning/Chap.1 Natural Language Processing.md",
-    "Linear Algrebra/Linear Algebra.md",
-    "Discrete Mathematics/Discrete Mathematics.md",
-    "Computer Organization/Computer Organization.md",
-    "Data Structure/Data Structure.md",
-    "Design Patterns/Design Pattern.md",
     "README.md",
     "Logic.md",
     "Discrete Mathematics/Chap.1 Logic(邏輯).md",

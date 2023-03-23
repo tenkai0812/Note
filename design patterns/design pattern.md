@@ -1,4 +1,9 @@
-[[📚CSIE]]
+___
+date : 2023-02-22 10:27
+aliases : []
+Source URL : 
+Topics : [[📚CSIE]] [[Design Pattern]]
+___
 1. strategy
 2. observer
 3. decorator
