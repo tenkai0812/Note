@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NLP Learning/Natural Language Processing11.md",
+                "file": "Discrete Mathematics/Discrete Mathematics.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NLP Learning/Natural Language Processing11.md",
+                "file": "Discrete Mathematics/Discrete Mathematics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NLP Learning/Natural Language Processing11.md",
+                "file": "Discrete Mathematics/Discrete Mathematics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -220,10 +220,14 @@
   },
   "active": "fc5e95e6b6a0597a",
   "lastOpenFiles": [
-    "README.md",
-    "Discrete Mathematics/Discrete Mathematics.md",
+    "Discrete Mathematics/Chap.3 Function(函數).md",
     "Discrete Mathematics/Chap.2 Set Theory(集合論).md",
     "Discrete Mathematics/Chap.1 Logic(邏輯).md",
+    "NLP Learning/Natural Language Processing.md",
+    "Operating System/Operating System.md",
+    "Obsidian Startup/Obsidian 啟用教學.md",
+    "README.md",
+    "Discrete Mathematics/Discrete Mathematics.md",
     "Logic.md",
     "Discrete Mathematics/Chap.13 Pólya Enumeration Theorem(波里亞計數).md",
     "Discrete Mathematics/Chap.12 Finite-State Machine(有限狀態機).md",
@@ -235,17 +239,13 @@
     "Discrete Mathematics/Chap.6 Generating Functions(生成函數).md",
     "Discrete Mathematics/Chap.5 Combinatorial Mathematics(排組數學).md",
     "Discrete Mathematics/Chap.4 Mathematical Induction(數學歸納法).md",
-    "Discrete Mathematics/Chap.3 Function(函數).md",
     "Template/Studies Template.md",
     "Template/Article Template.md",
     "Template/Contents Template.md",
     "NLP Learning/Chap.1 Natural Language Processing.md",
-    "NLP Learning/Natural Language Processing11.md",
     "Computational IOntelligence/Computational Intelligence.md",
-    "Operating System/Operating System.md",
     "📚CSIE.md",
     "Computational IOntelligence/Expert System(專家系統).md",
-    "Computational IOntelligence/Clustering(群聚分析).md",
     "Template",
     "Algorithm",
     "Computer Organization",
