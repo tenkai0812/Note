@@ -1,9 +1,9 @@
 ## table of contents
 1. [[discrete mathematics]]
 2. [[linear algebra]]
-3. [[data structure]]
+3. [[Data Structure]]
 4. [[operating system]]
-5. [[computer organization]]
+5. [[Computer Organization]]
 6. [[algorithm]]
 7. [[Computational Intelligence]]
 8. [[Natural Language Processing]]
