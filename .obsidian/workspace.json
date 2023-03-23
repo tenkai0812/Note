@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Template/未命名.md",
+                "file": "Template/Template.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Template/未命名.md",
+                "file": "Template/Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Template/未命名.md",
+                "file": "Template/Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,10 +191,10 @@
       "markdown-importer:開啟 Markdown 格式轉換器": false
     }
   },
-  "active": "5bc9ea81489f6824",
+  "active": "f59c741e128d47ea",
   "lastOpenFiles": [
     "computational intelligence/Computational Intelligence.md",
-    "Template/未命名.md",
+    "Template/Template.md",
     "Template",
     "📚CSIE.md",
     "README.md",
