@@ -1,4 +1,4 @@
-## personal note
+## table of contents
 1. [[discrete mathematics]]
 2. [[linear algebra]]
 3. [[data structure]]
