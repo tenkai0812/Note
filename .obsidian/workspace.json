@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "discrete mathematics/discrete mathematics.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "discrete mathematics/discrete mathematics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "discrete mathematics/discrete mathematics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,13 +187,13 @@
   },
   "active": "e797a7d71d805d4b",
   "lastOpenFiles": [
+    "README.md",
     "computational intelligence/Computational Intelligence.md",
     "operating system/Operating System.md",
     "linear algrebra/Linear Algebra.md",
     "design patterns/Design Pattern.md",
     "computer organization/Computer Organization.md",
     "data structure/Data Structure.md",
-    "README.md",
     "NLP Learning/Natural Language Processing.md",
     "computational intelligence/Clustering(群聚分析).md",
     "computational intelligence/Expert System(專家系統).md",
