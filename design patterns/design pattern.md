@@ -1,7 +1,7 @@
 ___
-date : 2023-02-22 10:27
-aliases : []
-Source URL : 
+date : 2023-02-22 10:27<br>
+aliases : []<br>
+Source URL : <br>
 Topics : [[📚CSIE]] [[Design Pattern]]
 ___
 1. strategy

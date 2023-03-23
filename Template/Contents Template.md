@@ -1,6 +1,6 @@
 ___
-date : {{date}} {{time}}
-aliases : []
+date : {{date}} {{time}}<br>
+aliases : []<br>
 Topics : 
 ___
 

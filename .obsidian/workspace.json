@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Algorithm/Algorithm.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -122,6 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Algorithm/Algorithm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,6 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Algorithm/Algorithm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,35 +191,35 @@
       "markdown-importer:開啟 Markdown 格式轉換器": false
     }
   },
-  "active": "afe1f78ffa5cbd84",
+  "active": "ebf5e7fd5f5e402b",
   "lastOpenFiles": [
-    "README.md",
+    "Computational Intelligence/Expert System(專家系統).md",
+    "Computational Intelligence/Fuzzy Logic(模糊邏輯).md",
+    "Computational Intelligence/Computational Intelligence.md",
+    "Computational Intelligence/Clustering(群聚分析).md",
+    "Computational Intelligence/Optimization Problem(最佳化問題).md",
+    "Computer Organization/Computer Organization.md",
+    "Data Structure/Data Structure.md",
+    "Design Patterns/Design Pattern.md",
+    "Discrete Mathematics/Chap.1 Logic(邏輯).md",
+    "Discrete Mathematics/Discrete Mathematics.md",
+    "Linear Algrebra/Linear Algebra.md",
     "NLP Learning/Chap.1 Natural Language Processing.md",
     "NLP Learning/Natural Language Processing.md",
     "Operating System/Operating System.md",
     "Obsidian Startup/Obsidian 啟用教學.md",
+    "Obsidian Startup/📑startup setting.md",
+    "README.md",
+    "📚CSIE.md",
+    "Template/Studies Template.md",
     "Template/Contents Template.md",
     "Template/Article Template.md",
-    "Template/Studies Template.md",
-    "📚CSIE.md",
-    "Computational Intelligence/Computational Intelligence.md",
-    "Computational Intelligence/Clustering(群聚分析).md",
     "Computational Intelligence/Clustering/Agglomerative.md",
     "Computational Intelligence/Clustering/Affinity Propagation.md",
     "Computational Intelligence/Clustering/Ward.md",
     "Computational Intelligence/Clustering/Spectral.md",
     "Computational Intelligence/Clustering/OPTICS.md",
-    "Computational Intelligence/Clustering/MeanShift.md",
-    "Computational Intelligence/Clustering/K-means.md",
-    "Computational Intelligence/Clustering/Gaussian Mixture.md",
-    "Computational Intelligence/Clustering/DBSCAN.md",
-    "Computational Intelligence/Clustering/BIRCH.md",
-    "Computational Intelligence/Fuzzy Logic(模糊邏輯).md",
     "Computational Intelligence/Clustering",
-    "Computational Intelligence/Expert System(專家系統).md",
-    "Computational Intelligence/Optimization Problem(最佳化問題).md",
-    "Computer Organization/Computer Organization.md",
-    "Design Patterns/Design Pattern.md",
     "Template",
     "Algorithm",
     "Computer Organization",
