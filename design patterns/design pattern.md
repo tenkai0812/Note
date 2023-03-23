@@ -2,7 +2,7 @@ ___
 date : 2023-02-22 10:27<br>
 aliases : []<br>
 Source URL : <br>
-Topics : [[📚CSIE]] [[Design Pattern]]
+Topics : [[📚CSIE]] 
 ___
 | No. | Title                                |
 | --- | ------------------------------------ |

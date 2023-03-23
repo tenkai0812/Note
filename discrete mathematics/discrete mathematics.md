@@ -1,7 +1,7 @@
 ___
 date : 2023-02-14 08:53<br>
 aliases : []<br>
-Topics : [[📚CSIE]] [[Discrete Mathematics]]
+Topics : [[📚CSIE]] 
 ___
 
 | No. | Title                                             |

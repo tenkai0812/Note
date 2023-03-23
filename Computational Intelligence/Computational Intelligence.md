@@ -1,7 +1,7 @@
 ___
 date : 2023-03-23 18:47<br>
 aliases : []<br>
-Topics : [[📚CSIE]] [[Computational Intelligence]]
+Topics : [[📚CSIE]] 
 ___
 
 ## table of contents

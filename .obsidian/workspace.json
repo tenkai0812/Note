@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Design Patterns/Design Pattern.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Design Patterns/Design Pattern.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Design Patterns/Design Pattern.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,32 +206,32 @@
   },
   "active": "3a9b951cb6794036",
   "lastOpenFiles": [
-    "Design Patterns/chap.1 strategy.md",
+    "Computational Intelligence/Clustering/Affinity Propagation.md",
+    "Algorithm/Algorithm.md",
+    "Computational Intelligence/Computational Intelligence.md",
+    "Computational Intelligence/Expert System(專家系統).md",
     "Computational Intelligence/Clustering(群聚分析).md",
-    "Computational Intelligence/Clustering/Ward.md",
-    "Computational Intelligence/Clustering/Spectral.md",
     "Computational Intelligence/Clustering/OPTICS.md",
-    "Computational Intelligence/Clustering/MeanShift.md",
-    "Computational Intelligence/Clustering/K-means.md",
     "Computational Intelligence/Clustering/Gaussian Mixture.md",
     "Computational Intelligence/Clustering/DBSCAN.md",
-    "Computational Intelligence/Clustering/BIRCH.md",
     "Computational Intelligence/Clustering/Agglomerative.md",
-    "Computational Intelligence/Clustering/Affinity Propagation.md",
+    "Computational Intelligence/Fuzzy Logic(模糊邏輯).md",
+    "Computational Intelligence/Optimization Problem(最佳化問題).md",
     "Computer Organization/Computer Organization.md",
-    "Linear Algrebra/Linear Algebra.md",
-    "Template/Studies Template.md",
-    "Template/Contents Template.md",
-    "Design Patterns/Design Pattern.md",
     "Data Structure/Data Structure.md",
     "Discrete Mathematics/Discrete Mathematics.md",
-    "Design Patterns/chap.19 chain of responsibility.md",
-    "Design Patterns/chap.24 prototype.md",
-    "Design Patterns/chap.25 visitor.md",
+    "Design Patterns/Design Pattern.md",
     "Design Patterns/chap.23 memento.md",
+    "Operating System/Operating System.md",
+    "NLP Learning/Natural Language Processing.md",
+    "Linear Algrebra/Linear Algebra.md",
+    "Design Patterns/chap.25 visitor.md",
+    "Design Patterns/chap.24 prototype.md",
     "Design Patterns/chap.22 mediator.md",
     "Design Patterns/chap.21 interpreter.md",
     "Design Patterns/chap.20 flyweight.md",
+    "Design Patterns/chap.19 chain of responsibility.md",
+    "Design Patterns/chap.18 builder.md",
     "Computational Intelligence/Clustering",
     "Template",
     "Algorithm",
