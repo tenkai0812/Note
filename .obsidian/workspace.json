@@ -65,7 +65,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名.md",
+                "file": "Discrete Mathematics/README.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1051d49127dfffe0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Design Patterns/README.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -73,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -148,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名.md",
+                "file": "Design Patterns/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未命名.md",
+                "file": "Design Patterns/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,11 +230,12 @@
       "markdown-importer:開啟 Markdown 格式轉換器": false
     }
   },
-  "active": "452570c826de1245",
+  "active": "1051d49127dfffe0",
   "lastOpenFiles": [
-    "Design Patterns/chap.20 flyweight.md",
-    "未命名.md",
     "Design Patterns/Design Pattern.md",
+    "Design Patterns/README.md",
+    "Discrete Mathematics/README.md",
+    "Design Patterns/chap.20 flyweight.md",
     "README.md",
     "Computational Intelligence/Clustering/Affinity Propagation.md",
     "📚CSIE.md",
@@ -244,7 +258,6 @@
     "Linear Algrebra/Linear Algebra.md",
     "Design Patterns/chap.25 visitor.md",
     "Design Patterns/chap.24 prototype.md",
-    "Design Patterns/chap.22 mediator.md",
     "Computational Intelligence/Clustering",
     "Template",
     "Algorithm",
