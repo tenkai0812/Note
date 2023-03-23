@@ -11,8 +11,13 @@
             "id": "3a9801b09b5c570e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "deep learning/Clustering 群聚分析.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -90,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "deep learning/Clustering 群聚分析.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "deep learning/Clustering 群聚分析.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,17 +170,21 @@
       "workspaces:管理工作區配置": false
     }
   },
-  "active": "f6a458167c83c69b",
+  "active": "3a9801b09b5c570e",
   "lastOpenFiles": [
-    "未命名.canvas",
+    "deep learning/Fuzzy Logic(模糊邏輯).md",
+    "deep learning/Expert System.md",
     "deep learning/Clustering 群聚分析.md",
+    "design patterns/design pattern.md",
+    "discrete mathematics/Chap.1 logic(邏輯).md",
+    "linear algrebra/linear algebra.md",
+    "NLP Learning/Natural Language Processing.md",
+    "data structure/data structure.md",
+    "未命名.canvas",
+    "未命名.md",
     "📚CSIE.md",
     "operating system/operating system.md",
     "deep learning/未命名",
-    "deep learning/Fuzzy Logic(模糊邏輯).md",
-    "deep learning/Expert System.md",
-    "NLP Learning/Natural Language Processing.md",
-    "未命名.md",
     "每日筆記/FEB/2023-02-23.md",
     "每日筆記/FEB/2023-02-22.md",
     "每日筆記/FEB/2023-02-13.md",
