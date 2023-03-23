@@ -6,5 +6,5 @@
 5. [[Computer Organization]]
 6. [[Algorithm]]
 7. [[Computational Intelligence]]
-8. [[Natural Language Processing]]
+8. [[Chap.1 Natural Language Processing]]
 9. [[Design Pattern]]
