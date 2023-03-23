@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computational Intelligence/Clustering/Affinity Propagation.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computational Intelligence/Clustering/Affinity Propagation.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computational Intelligence/Clustering/Affinity Propagation.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,9 +206,9 @@
   },
   "active": "3a9b951cb6794036",
   "lastOpenFiles": [
+    "Computational Intelligence/Clustering/Affinity Propagation.md",
     "📚CSIE.md",
     "README.md",
-    "Computational Intelligence/Clustering/Affinity Propagation.md",
     "Algorithm/Algorithm.md",
     "Computational Intelligence/Computational Intelligence.md",
     "Computational Intelligence/Expert System(專家系統).md",

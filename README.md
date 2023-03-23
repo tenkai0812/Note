@@ -1,4 +1,4 @@
-## personal 
+## Personal Note
 ___
 editer : Sky Lien<br>
 date : 2023-03-23 19:48 <br>
@@ -19,4 +19,3 @@ ___
 | 7   | [[Computational Intelligence]](https://github.com/tenkai0812/Obsidian/blob/main/Computational%20Intelligence/Computational%20Intelligence.md)|
 | 8   | [[Design Pattern]](https://github.com/tenkai0812/Obsidian/blob/main/design%20patterns/design%20pattern.md)                                                                                                          |
 | 9   | [[Natural Language Processing]](https://github.com/tenkai0812/Note/blob/main/NLP%20Learning/Natural%20Language%20Processing.md)                                                                                                                          |
-
