@@ -1,4 +1,4 @@
-[[discrete mathematics]]  
+[[Discrete Mathematics]]  
 
 # proposition statement(命題)
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computational intelligence/Computational Intelligence.md",
+                "file": "Computational IOntelligence/Computational Intelligence.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Template/Template.md",
+                "file": "Discrete Mathematics/Discrete Mathematics.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Template/Template.md",
+                "file": "Discrete Mathematics/Discrete Mathematics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Template/Template.md",
+                "file": "Discrete Mathematics/Discrete Mathematics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,37 +191,37 @@
       "markdown-importer:開啟 Markdown 格式轉換器": false
     }
   },
-  "active": "f59c741e128d47ea",
+  "active": "c8662f4326cc8deb",
   "lastOpenFiles": [
-    "computational intelligence/Computational Intelligence.md",
+    "Computer Organization/Computer Organization.md",
+    "Algorithm/Algorithm.md",
     "Template/Template.md",
+    "Computational IOntelligence/Computational Intelligence.md",
     "Template",
     "📚CSIE.md",
     "README.md",
-    "discrete mathematics/discrete mathematics.md",
-    "operating system/Operating System.md",
-    "linear algrebra/Linear Algebra.md",
-    "design patterns/Design Pattern.md",
-    "computer organization/Computer Organization.md",
-    "data structure/Data Structure.md",
+    "Discrete Mathematics/Discrete Mathematics.md",
+    "Operating System/Operating System.md",
+    "Linear Algrebra/Linear Algebra.md",
+    "Design Patterns/Design Pattern.md",
+    "Data Structure/Data Structure.md",
     "NLP Learning/Natural Language Processing.md",
-    "computational intelligence/Clustering(群聚分析).md",
-    "computational intelligence/Expert System(專家系統).md",
-    "computational intelligence/Fuzzy Logic(模糊邏輯).md",
-    "computational intelligence/Optimization Problem(最佳化問題).md",
-    "obsidian startup/📑startup setting.md",
-    "algorithm/algorithm.md",
-    "algorithm",
-    "computer organization",
-    "discrete mathematics/Chap.1 logic(邏輯).md",
-    "obsidian startup/Obsidian 啟用教學.md",
-    "discrete mathematics/Chap.13 Pólya enumeration theorem(波里亞計數).md",
-    "discrete mathematics/Chap.12 finite-state machine(有限狀態機).md",
-    "discrete mathematics/Chap.11 Algebraic structure(代數結構).md",
-    "discrete mathematics/Chap.10 Binary relation(二元關係).md",
-    "discrete mathematics/Chap.9 tree(樹).md",
-    "discrete mathematics/Chap.8 Graph(圖論).md",
-    "discrete mathematics/Chap.7 recurrence relation(遞迴關係式).md",
+    "Computational IOntelligence/Clustering(群聚分析).md",
+    "Computational IOntelligence/Expert System(專家系統).md",
+    "Computational IOntelligence/Fuzzy Logic(模糊邏輯).md",
+    "Computational IOntelligence/Optimization Problem(最佳化問題).md",
+    "Obsidian Startup/📑startup setting.md",
+    "Algorithm",
+    "Computer Organization",
+    "Discrete Mathematics/Chap.1 logic(邏輯).md",
+    "Obsidian Startup/Obsidian 啟用教學.md",
+    "Discrete Mathematics/Chap.13 Pólya enumeration theorem(波里亞計數).md",
+    "Discrete Mathematics/Chap.12 finite-state machine(有限狀態機).md",
+    "Discrete Mathematics/Chap.11 Algebraic structure(代數結構).md",
+    "Discrete Mathematics/Chap.10 Binary relation(二元關係).md",
+    "Discrete Mathematics/Chap.9 tree(樹).md",
+    "Discrete Mathematics/Chap.8 Graph(圖論).md",
+    "Discrete Mathematics/Chap.7 recurrence relation(遞迴關係式).md",
     "未命名.canvas",
     "deep learning/未命名"
   ]

@@ -1,10 +1,10 @@
 ## table of contents
-1. [[discrete mathematics]]
+1. [[Discrete Mathematics]]
 2. [[Linear Algebra]]
 3. [[Data Structure]]
 4. [[Operating System]]
 5. [[Computer Organization]]
-6. [[algorithm]]
+6. [[Algorithm]]
 7. [[Computational Intelligence]]
 8. [[Natural Language Processing]]
 9. [[Design Pattern]]
