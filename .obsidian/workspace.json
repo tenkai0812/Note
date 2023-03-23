@@ -13,28 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "deep learning/Clustering(群聚分析).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "830866f58557098a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "operating system/operating system.md",
+                "file": "discrete mathematics/Chap.1 logic(邏輯).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "operating system/operating system.md",
+                "file": "discrete mathematics/Chap.1 logic(邏輯).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "operating system/operating system.md",
+                "file": "discrete mathematics/Chap.1 logic(邏輯).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,28 +170,35 @@
       "workspaces:管理工作區配置": false
     }
   },
-  "active": "830866f58557098a",
+  "active": "3a9801b09b5c570e",
   "lastOpenFiles": [
-    "deep learning/Clustering(群聚分析).md",
-    "operating system/operating system.md",
-    "deep learning/Optimization Problem(最佳化問題).md",
+    "discrete mathematics/Chap.1 logic(邏輯).md",
     "NLP Learning/Natural Language Processing.md",
+    "linear algrebra/linear algebra.md",
+    "discrete mathematics/Chap.13 Pólya enumeration theorem(波里亞計數).md",
+    "discrete mathematics/Chap.12 finite-state machine(有限狀態機).md",
+    "discrete mathematics/Chap.11 Algebraic structure(代數結構).md",
+    "discrete mathematics/Chap.10 Binary relation(二元關係).md",
+    "discrete mathematics/Chap.9 tree(樹).md",
+    "discrete mathematics/Chap.8 Graph(圖論).md",
+    "discrete mathematics/Chap.7 recurrence relation(遞迴關係式).md",
+    "discrete mathematics/Chap.5 Combinatorial mathematics(排組數學).md",
+    "discrete mathematics.md",
+    "discrete mathematics/Chap.6 Generating functions(生成函數).md",
+    "discrete mathematics/Chap.4 Mathematical Induction(數學歸納法).md",
+    "discrete mathematics/Chap.3 function(函數).md",
+    "discrete mathematics/discrete mathematics.md",
+    "discrete mathematics/Chap.2 set theory(集合論).md",
+    "design patterns/design pattern.md",
+    "📚CSIE.md",
+    "operating system/operating system.md",
+    "deep learning/Clustering(群聚分析).md",
+    "deep learning/Optimization Problem(最佳化問題).md",
     "deep learning/Fuzzy Logic(模糊邏輯).md",
     "deep learning/Expert System(專家系統).md",
-    "design patterns/design pattern.md",
-    "discrete mathematics/Chap.1 logic(邏輯).md",
-    "linear algrebra/linear algebra.md",
     "data structure/data structure.md",
     "未命名.canvas",
     "未命名.md",
-    "📚CSIE.md",
-    "deep learning/未命名",
-    "每日筆記/FEB/2023-02-23.md",
-    "每日筆記/FEB/2023-02-22.md",
-    "每日筆記/FEB/2023-02-13.md",
-    "每日筆記/FEB/2023-02-14.md",
-    "每日筆記/FEB/2023-02-15.md",
-    "每日筆記/FEB/2023-02-16.md",
-    "每日筆記/FEB/2023-02-21.md"
+    "deep learning/未命名"
   ]
 }
