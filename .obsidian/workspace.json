@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "discrete mathematics/discrete mathematics.md",
+                "file": "computational intelligence/Computational Intelligence.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "discrete mathematics/discrete mathematics.md",
+                "file": "computational intelligence/Computational Intelligence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "discrete mathematics/discrete mathematics.md",
+                "file": "computational intelligence/Computational Intelligence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,6 +187,7 @@
   },
   "active": "e797a7d71d805d4b",
   "lastOpenFiles": [
+    "📚CSIE.md",
     "README.md",
     "discrete mathematics/discrete mathematics.md",
     "computational intelligence/Computational Intelligence.md",
@@ -200,7 +201,6 @@
     "computational intelligence/Expert System(專家系統).md",
     "computational intelligence/Fuzzy Logic(模糊邏輯).md",
     "computational intelligence/Optimization Problem(最佳化問題).md",
-    "📚CSIE.md",
     "obsidian startup/📑startup setting.md",
     "algorithm/algorithm.md",
     "algorithm",
