@@ -4,17 +4,24 @@ aliases : []<br>
 Source URL : <br>
 Topics : [[📚CSIE]] [[Design Pattern]]
 ___
-1. strategy
-2. observer
-3. decorator
-4. abstract
-5. factory
-6. factory method
-7. singleton
-8. command
-9. adapter
-10. facade
-11. template method
+| No. | Title                       |
+| --- | --------------------------- |
+| 1   | [[chap.1 strategy]]         |
+| 2   | [[chap.2 observer]]         |
+| 3   | [[chap.3 decorator]]        |
+| 4   | [[chap.4 abstract]]         |
+| 5   | [[chap.5 factory]]          |
+| 6   | [[chap.6 factory method]]   |
+| 7   | [[chap.7 singleton]]        |
+| 8   | [[chap.8 command]]          |
+| 9   | [[chap.9 adapter]]          |
+| 10  | [[chap.10 facade]]          |
+| 11  | [[chap.11 template method]] |
+| 12  |                             |
+| 13  |                             |
+| 14|                             |
+
+
 12. iterator
 13. composite
 14. state

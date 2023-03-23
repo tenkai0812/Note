@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithm/Algorithm.md",
+                "file": "Design Patterns/Design Pattern.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithm/Algorithm.md",
+                "file": "Design Patterns/Design Pattern.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithm/Algorithm.md",
+                "file": "Design Patterns/Design Pattern.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,6 +193,12 @@
   },
   "active": "ebf5e7fd5f5e402b",
   "lastOpenFiles": [
+    "chap.6 factory method.md",
+    "Design Patterns/Design Pattern.md",
+    "Design Patterns/chap.1 strategy.md",
+    "Discrete Mathematics/Chap.1 Logic(邏輯).md",
+    "Discrete Mathematics/Chap.2 Set Theory(集合論).md",
+    "Algorithm/Algorithm.md",
     "Computational Intelligence/Expert System(專家系統).md",
     "Computational Intelligence/Fuzzy Logic(模糊邏輯).md",
     "Computational Intelligence/Computational Intelligence.md",
@@ -200,8 +206,6 @@
     "Computational Intelligence/Optimization Problem(最佳化問題).md",
     "Computer Organization/Computer Organization.md",
     "Data Structure/Data Structure.md",
-    "Design Patterns/Design Pattern.md",
-    "Discrete Mathematics/Chap.1 Logic(邏輯).md",
     "Discrete Mathematics/Discrete Mathematics.md",
     "Linear Algrebra/Linear Algebra.md",
     "NLP Learning/Chap.1 Natural Language Processing.md",
@@ -215,10 +219,6 @@
     "Template/Contents Template.md",
     "Template/Article Template.md",
     "Computational Intelligence/Clustering/Agglomerative.md",
-    "Computational Intelligence/Clustering/Affinity Propagation.md",
-    "Computational Intelligence/Clustering/Ward.md",
-    "Computational Intelligence/Clustering/Spectral.md",
-    "Computational Intelligence/Clustering/OPTICS.md",
     "Computational Intelligence/Clustering",
     "Template",
     "Algorithm",
