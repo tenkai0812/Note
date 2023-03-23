@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f59c741e128d47ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Template/未命名.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "computational intelligence/Computational Intelligence.md",
+                "file": "Template/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,18 +126,10 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "computational intelligence/Computational Intelligence.md",
+                "file": "Template/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
-            }
-          },
-          {
-            "id": "5278acf53fd1eeee",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
             }
           },
           {
@@ -137,8 +143,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "b591494aa63375eb",
@@ -182,15 +187,18 @@
       "templates:插入模板": false,
       "command-palette:開啟命令面板": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "workspaces:管理工作區配置": false
+      "workspaces:管理工作區配置": false,
+      "markdown-importer:開啟 Markdown 格式轉換器": false
     }
   },
-  "active": "e797a7d71d805d4b",
+  "active": "5bc9ea81489f6824",
   "lastOpenFiles": [
+    "computational intelligence/Computational Intelligence.md",
+    "Template/未命名.md",
+    "Template",
     "📚CSIE.md",
     "README.md",
     "discrete mathematics/discrete mathematics.md",
-    "computational intelligence/Computational Intelligence.md",
     "operating system/Operating System.md",
     "linear algrebra/Linear Algebra.md",
     "design patterns/Design Pattern.md",
@@ -214,7 +222,6 @@
     "discrete mathematics/Chap.9 tree(樹).md",
     "discrete mathematics/Chap.8 Graph(圖論).md",
     "discrete mathematics/Chap.7 recurrence relation(遞迴關係式).md",
-    "discrete mathematics/Chap.6 Generating functions(生成函數).md",
     "未命名.canvas",
     "deep learning/未命名"
   ]
