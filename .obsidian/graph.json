@@ -8,10 +8,17 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
+      "query": "📚",
+      "color": {
+        "a": 1,
+        "rgb": 15724921
+      }
+    },
+    {
       "query": "discrete mathematics",
       "color": {
         "a": 1,
-        "rgb": 298486
+        "rgb": 37375
       }
     },
     {
@@ -36,17 +43,10 @@
       }
     },
     {
-      "query": "📚",
+      "query": "computer",
       "color": {
         "a": 1,
-        "rgb": 5431378
-      }
-    },
-    {
-      "query": "讀書筆記",
-      "color": {
-        "a": 1,
-        "rgb": 16777215
+        "rgb": 5419488
       }
     }
   ],
@@ -60,6 +60,6 @@
   "repelStrength": 7.36631905924118,
   "linkStrength": 0.382516086088307,
   "linkDistance": 254,
-  "scale": 0.1075221834966552,
+  "scale": 0.03455078986505869,
   "close": false
 }

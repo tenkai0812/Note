@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computational Intelligence/Clustering(群聚分析).md",
+                "file": "Computational Intelligence/Clustering/Gaussian Mixture.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -97,7 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 356.5085258483887
   },
   "right": {
     "id": "d98a6ed2c56d7bcb",
@@ -122,7 +122,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computational Intelligence/Clustering(群聚分析).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +138,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computational Intelligence/Clustering(群聚分析).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,11 +203,21 @@
       "markdown-importer:開啟 Markdown 格式轉換器": false
     }
   },
-  "active": "5bc9ea81489f6824",
+  "active": "afe1f78ffa5cbd84",
   "lastOpenFiles": [
-    "Computational Intelligence/未命名",
-    "Affinity Propagation.md",
+    "Computational Intelligence/Clustering/Gaussian Mixture.md",
     "Computational Intelligence/Clustering(群聚分析).md",
+    "README.md",
+    "Computational Intelligence/Clustering/BIRCH.md",
+    "Computational Intelligence/Clustering/OPTICS.md",
+    "Computational Intelligence/Clustering/DBSCAN.md",
+    "Computational Intelligence/Clustering/Agglomerative.md",
+    "Computational Intelligence/Clustering/Ward.md",
+    "Computational Intelligence/Clustering/Spectral.md",
+    "Computational Intelligence/Clustering/MeanShift.md",
+    "Computational Intelligence/Clustering/K-means.md",
+    "Computational Intelligence/Clustering/Affinity Propagation.md",
+    "Computational Intelligence/Clustering",
     "Computational Intelligence/Expert System(專家系統).md",
     "Computational Intelligence/Computational Intelligence.md",
     "Computational Intelligence/Optimization Problem(最佳化問題).md",
@@ -224,15 +232,6 @@
     "Template/Article Template.md",
     "Template/Contents Template.md",
     "Template/Studies Template.md",
-    "Obsidian Startup/Obsidian 啟用教學.md",
-    "Obsidian Startup/📑startup setting.md",
-    "NLP Learning/Chap.1 Natural Language Processing.md",
-    "README.md",
-    "Logic.md",
-    "Discrete Mathematics/Chap.1 Logic(邏輯).md",
-    "Discrete Mathematics/Chap.3 Function(函數).md",
-    "Discrete Mathematics/Chap.2 Set Theory(集合論).md",
-    "Discrete Mathematics/Chap.13 Pólya Enumeration Theorem(波里亞計數).md",
     "Template",
     "Algorithm",
     "Computer Organization",
