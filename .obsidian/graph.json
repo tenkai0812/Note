@@ -8,13 +8,6 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "📚",
-      "color": {
-        "a": 1,
-        "rgb": 15724921
-      }
-    },
-    {
       "query": "discrete mathematics",
       "color": {
         "a": 1,
@@ -43,7 +36,7 @@
       }
     },
     {
-      "query": "computer",
+      "query": "computer organization",
       "color": {
         "a": 1,
         "rgb": 5419488
@@ -52,14 +45,14 @@
   ],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": -1,
-  "nodeSizeMultiplier": 2.25265143110717,
-  "lineSizeMultiplier": 2.3918127357444,
+  "textFadeMultiplier": -3,
+  "nodeSizeMultiplier": 4.52561940684861,
+  "lineSizeMultiplier": 2.97201390429702,
   "collapse-forces": false,
   "centerStrength": 0,
-  "repelStrength": 7.36631905924118,
-  "linkStrength": 0.382516086088307,
-  "linkDistance": 254,
+  "repelStrength": 0,
+  "linkStrength": 0,
+  "linkDistance": 500,
   "scale": 0.03455078986505869,
   "close": false
 }

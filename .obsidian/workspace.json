@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computational Intelligence/Clustering/Gaussian Mixture.md",
+                "file": "📚CSIE.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -163,19 +163,6 @@
         "dimension": 58.582089552238806,
         "children": [
           {
-            "id": "f6a458167c83c69b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📚CSIE.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "afe1f78ffa5cbd84",
             "type": "leaf",
             "state": {
@@ -183,8 +170,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -205,9 +191,10 @@
   },
   "active": "afe1f78ffa5cbd84",
   "lastOpenFiles": [
+    "📚CSIE.md",
+    "README.md",
     "Computational Intelligence/Clustering/Gaussian Mixture.md",
     "Computational Intelligence/Clustering(群聚分析).md",
-    "README.md",
     "Computational Intelligence/Clustering/BIRCH.md",
     "Computational Intelligence/Clustering/OPTICS.md",
     "Computational Intelligence/Clustering/DBSCAN.md",
@@ -231,7 +218,6 @@
     "Discrete Mathematics/Discrete Mathematics.md",
     "Template/Article Template.md",
     "Template/Contents Template.md",
-    "Template/Studies Template.md",
     "Template",
     "Algorithm",
     "Computer Organization",
