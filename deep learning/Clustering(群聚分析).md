@@ -1,4 +1,4 @@
-[Machine Learning]
+[[Machine Learning]]
 1. [K-means]
 2. [Affinity Propagation]
 3. [MeanShift]

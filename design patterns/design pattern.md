@@ -1,4 +1,4 @@
-[📚CSIE]
+[[📚CSIE]]
 1. strategy
 2. observer
 3. decorator

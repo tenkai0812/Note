@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "discrete mathematics/Chap.1 logic(邏輯).md",
+                "file": "deep learning/Clustering(群聚分析).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "discrete mathematics/Chap.1 logic(邏輯).md",
+                "file": "deep learning/Clustering(群聚分析).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "discrete mathematics/Chap.1 logic(邏輯).md",
+                "file": "deep learning/Clustering(群聚分析).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,9 +172,13 @@
   },
   "active": "3a9801b09b5c570e",
   "lastOpenFiles": [
+    "design patterns/design pattern.md",
     "discrete mathematics/Chap.1 logic(邏輯).md",
-    "NLP Learning/Natural Language Processing.md",
     "linear algrebra/linear algebra.md",
+    "obsidian startup/📑startup setting.md",
+    "obsidian startup/Obsidian 啟用教學.md",
+    "operating system/operating system.md",
+    "NLP Learning/Natural Language Processing.md",
     "discrete mathematics/Chap.13 Pólya enumeration theorem(波里亞計數).md",
     "discrete mathematics/Chap.12 finite-state machine(有限狀態機).md",
     "discrete mathematics/Chap.11 Algebraic structure(代數結構).md",
@@ -182,23 +186,19 @@
     "discrete mathematics/Chap.9 tree(樹).md",
     "discrete mathematics/Chap.8 Graph(圖論).md",
     "discrete mathematics/Chap.7 recurrence relation(遞迴關係式).md",
-    "discrete mathematics/Chap.5 Combinatorial mathematics(排組數學).md",
-    "discrete mathematics.md",
     "discrete mathematics/Chap.6 Generating functions(生成函數).md",
+    "discrete mathematics/Chap.5 Combinatorial mathematics(排組數學).md",
     "discrete mathematics/Chap.4 Mathematical Induction(數學歸納法).md",
     "discrete mathematics/Chap.3 function(函數).md",
-    "discrete mathematics/discrete mathematics.md",
     "discrete mathematics/Chap.2 set theory(集合論).md",
-    "design patterns/design pattern.md",
+    "discrete mathematics.md",
+    "discrete mathematics/discrete mathematics.md",
     "📚CSIE.md",
-    "operating system/operating system.md",
     "deep learning/Clustering(群聚分析).md",
     "deep learning/Optimization Problem(最佳化問題).md",
     "deep learning/Fuzzy Logic(模糊邏輯).md",
     "deep learning/Expert System(專家系統).md",
-    "data structure/data structure.md",
     "未命名.canvas",
-    "未命名.md",
     "deep learning/未命名"
   ]
 }

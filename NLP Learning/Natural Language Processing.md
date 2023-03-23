@@ -1,5 +1,5 @@
-[📚CSIE]  
-[Natural Language Processing]
+[[📚CSIE]]  
+[[Natural Language Processing]]
 [參考文章](https://www.analyticsvidhya.com/blog/2021/06/part-1-step-by-step-guide-to-master-natural-language-processing-nlp-in-python/)
 ## part1. Step by Step Guide to Master NLP – Introduction
 ### Introduction of NLP
