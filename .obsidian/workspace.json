@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computational Intelligence/Optimization Problem(最佳化問題).md",
+                "file": "NLP Learning/Chap.1 Natural Language Processing.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -160,7 +160,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computational Intelligence/Optimization Problem(最佳化問題).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +176,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computational Intelligence/Optimization Problem(最佳化問題).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -229,8 +227,10 @@
       "markdown-importer:開啟 Markdown 格式轉換器": false
     }
   },
-  "active": "8d36c7bd2506a9a7",
+  "active": "afe1f78ffa5cbd84",
   "lastOpenFiles": [
+    "NLP Learning/Chap.1 Natural Language Processing.md",
+    "Computational Intelligence/Optimization Problem(最佳化問題).md",
     "Computational Intelligence/Clustering(群聚分析).md",
     "Computational Intelligence/Computational Intelligence.md",
     "Computational Intelligence/Expert System(專家系統).md",
@@ -250,13 +250,11 @@
     "Computational Intelligence/Clustering/Gaussian Mixture.md",
     "Computational Intelligence/Clustering/DBSCAN.md",
     "Computational Intelligence/Clustering/Agglomerative.md",
-    "Computational Intelligence/Optimization Problem(最佳化問題).md",
     "Computer Organization/Computer Organization.md",
     "Data Structure/Data Structure.md",
     "Discrete Mathematics/Discrete Mathematics.md",
     "Design Patterns/chap.23 memento.md",
     "Operating System/Operating System.md",
-    "NLP Learning/Natural Language Processing.md",
     "Computational Intelligence/Clustering",
     "Template",
     "Algorithm",
