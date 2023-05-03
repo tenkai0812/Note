@@ -84,8 +84,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7714e2839be41e8d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.7"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -128,6 +139,14 @@
             "type": "leaf",
             "state": {
               "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "9ba306e55883b813",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
               "state": {}
             }
           }
@@ -227,7 +246,7 @@
       "markdown-importer:開啟 Markdown 格式轉換器": false
     }
   },
-  "active": "afe1f78ffa5cbd84",
+  "active": "7714e2839be41e8d",
   "lastOpenFiles": [
     "NLP Learning/Chap.1 Natural Language Processing.md",
     "Computational Intelligence/Optimization Problem(最佳化問題).md",
