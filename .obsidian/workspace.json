@@ -104,9 +104,19 @@
                 "currentVersion": "1.2.8"
               }
             }
+          },
+          {
+            "id": "5697fe8da4349ade",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.4"
+              }
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -256,7 +266,7 @@
       "markdown-importer:開啟 Markdown 格式轉換器": false
     }
   },
-  "active": "41c3788b38de3d56",
+  "active": "5697fe8da4349ade",
   "lastOpenFiles": [
     "NLP Learning/Chap.1 Natural Language Processing.md",
     "Computational Intelligence/Optimization Problem(最佳化問題).md",
