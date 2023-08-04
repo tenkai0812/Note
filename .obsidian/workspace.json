@@ -225,7 +225,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deep learning/Deep Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -242,7 +241,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deep learning/Deep Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -294,10 +292,10 @@
       "markdown-importer:開啟 Markdown 格式轉換器": false
     }
   },
-  "active": "345ca51347eff9c0",
+  "active": "afe1f78ffa5cbd84",
   "lastOpenFiles": [
-    "Template/Contents Template.md",
     "Deep learning/Deep Learning.md",
+    "Template/Contents Template.md",
     "Template/Studies Template.md",
     "Template/Article Template.md",
     "Deep learning",
