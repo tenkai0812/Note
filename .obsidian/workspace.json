@@ -158,9 +158,12 @@
             "id": "0514f2e0d184591a",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.3"
+                "file": "📚CSIE.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -248,7 +251,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linear Algrebra/Linear Algebra.md",
+                "file": "📚CSIE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -265,7 +268,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linear Algrebra/Linear Algebra.md",
+                "file": "📚CSIE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
