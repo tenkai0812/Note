@@ -251,7 +251,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📚CSIE.md",
+                "file": "Design Patterns/Design Pattern.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -268,7 +268,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📚CSIE.md",
+                "file": "Design Patterns/Design Pattern.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -297,8 +297,13 @@
             "id": "afe1f78ffa5cbd84",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Design Patterns/Design Pattern.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -320,8 +325,9 @@
       "markdown-importer:開啟 Markdown 格式轉換器": false
     }
   },
-  "active": "0514f2e0d184591a",
+  "active": "afe1f78ffa5cbd84",
   "lastOpenFiles": [
+    "📚CSIE.md",
     "Deep learning/Deep Learning.md",
     "Template/Contents Template.md",
     "Template/Studies Template.md",
@@ -342,7 +348,6 @@
     "Design Patterns/chap.20 flyweight.md",
     "README.md",
     "Computational Intelligence/Clustering/Affinity Propagation.md",
-    "📚CSIE.md",
     "Algorithm/Algorithm.md",
     "Computational Intelligence/Clustering/OPTICS.md",
     "Computational Intelligence/Clustering/Gaussian Mixture.md",
